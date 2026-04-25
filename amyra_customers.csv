@@ -1,0 +1,3001 @@
+﻿customer_id,age,gender,location,customer_tier,preferred_style,lifetime_purchases
+CUST-67640,59,Female,Đà Lạt,New,Casual,1
+CUST-47843,46,Female,Hà Nội,New,Classic,2
+CUST-40248,45,Female,Hải Phòng,Silver,Elegant,6
+CUST-36244,55,Female,Đà Lạt,New,Classic,0
+CUST-64905,59,Female,Vũng Tàu,Gold,Formal,13
+CUST-77038,52,Female,Hải Phòng,Silver,Classic,5
+CUST-84497,41,Male,Biên Hòa,Silver,Elegant,8
+CUST-26800,41,Female,Hà Nội,New,Sporty,1
+CUST-65505,40,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-49681,40,Female,Hà Nội,Silver,Classic,4
+CUST-47255,52,Female,Vũng Tàu,Silver,Formal,4
+CUST-88605,61,Female,Đà Lạt,Silver,Classic,3
+CUST-78022,51,Female,Hà Nội,New,Sporty,0
+CUST-75051,40,Female,Hà Nội,New,Formal,2
+CUST-66401,50,Female,TP. Hồ Chí Minh,New,Elegant,4
+CUST-72620,50,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-81545,68,Female,Huế,New,Elegant,1
+CUST-79708,40,Female,Hà Nội,Silver,Casual,2
+CUST-15249,48,Male,Nha Trang,New,Casual,0
+CUST-72409,65,Female,Đà Nẵng,New,Classic,0
+CUST-51383,55,Female,TP. Hồ Chí Minh,Silver,Sporty,1
+CUST-34613,56,Female,Hà Nội,Silver,Classic,6
+CUST-88037,52,Male,Vũng Tàu,Gold,Casual,12
+CUST-53022,54,Female,Đà Nẵng,New,Casual,2
+CUST-50814,58,Male,TP. Hồ Chí Minh,Silver,Classic,8
+CUST-11507,45,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-95406,59,Female,Đà Lạt,Silver,Casual,4
+CUST-62031,41,Female,Nha Trang,Silver,Casual,6
+CUST-14423,54,Female,Nha Trang,New,Elegant,2
+CUST-99479,53,Female,Đà Nẵng,Silver,Casual,7
+CUST-65491,47,Male,Đà Lạt,New,Classic,1
+CUST-72634,51,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-29840,47,Female,Cần Thơ,New,Formal,2
+CUST-30935,43,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-61607,49,Female,Đà Nẵng,Gold,Casual,18
+CUST-73878,43,Female,Vũng Tàu,Silver,Casual,4
+CUST-15816,54,Male,Vũng Tàu,Silver,Elegant,4
+CUST-94713,42,Male,TP. Hồ Chí Minh,Gold,Classic,16
+CUST-46709,57,Female,Đà Nẵng,Silver,Elegant,5
+CUST-90226,42,Female,Đà Lạt,New,Elegant,2
+CUST-51600,47,Female,Vũng Tàu,New,Casual,0
+CUST-54617,47,Male,Nha Trang,New,Elegant,0
+CUST-52326,62,Female,Hà Nội,Gold,Sporty,14
+CUST-18616,54,Female,TP. Hồ Chí Minh,Gold,Classic,15
+CUST-96592,50,Male,Đà Lạt,Silver,Elegant,5
+CUST-34103,55,Male,Cần Thơ,New,Formal,1
+CUST-48010,40,Female,Cần Thơ,New,Classic,2
+CUST-91540,51,Female,Hải Phòng,Gold,Casual,14
+CUST-54237,67,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-12740,53,Female,TP. Hồ Chí Minh,Silver,Formal,10
+CUST-55226,52,Female,Nha Trang,New,Elegant,0
+CUST-56230,56,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-53321,59,Female,Hải Phòng,Silver,Sporty,6
+CUST-61260,40,Female,Cần Thơ,Gold,Elegant,13
+CUST-19341,40,Female,Huế,Silver,Casual,6
+CUST-81573,53,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-26358,46,Male,Cần Thơ,New,Classic,3
+CUST-76426,62,Female,Hà Nội,Gold,Casual,14
+CUST-91544,49,Male,Hà Nội,Silver,Sporty,3
+CUST-72257,40,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-24702,41,Female,Hà Nội,Silver,Casual,4
+CUST-88586,40,Female,Biên Hòa,New,Casual,1
+CUST-72850,50,Female,Đà Lạt,New,Classic,2
+CUST-76831,50,Female,Hà Nội,Gold,Formal,15
+CUST-29906,48,Female,Huế,Silver,Classic,6
+CUST-80347,60,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-47852,61,Female,Cần Thơ,New,Formal,1
+CUST-24113,50,Female,Đà Lạt,Gold,Sporty,20
+CUST-68583,40,Female,Đà Nẵng,Silver,Elegant,6
+CUST-25167,56,Female,Hà Nội,Silver,Casual,10
+CUST-66873,56,Female,Hà Nội,New,Elegant,2
+CUST-26160,54,Female,TP. Hồ Chí Minh,Gold,Elegant,17
+CUST-97727,59,Female,Biên Hòa,Gold,Elegant,11
+CUST-63676,42,Female,Đà Nẵng,Silver,Formal,6
+CUST-25917,68,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-46834,44,Female,Hà Nội,Silver,Elegant,4
+CUST-57062,57,Female,Đà Lạt,Silver,Casual,3
+CUST-20767,40,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-77117,44,Female,Cần Thơ,Gold,Elegant,11
+CUST-38351,64,Female,Hải Phòng,Silver,Elegant,4
+CUST-42943,49,Male,TP. Hồ Chí Minh,New,Casual,0
+CUST-83965,58,Male,Hà Nội,New,Casual,2
+CUST-92352,53,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-64071,51,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-48128,62,Female,Cần Thơ,New,Classic,1
+CUST-45457,50,Female,Nha Trang,Silver,Casual,3
+CUST-29675,40,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-51099,45,Female,Đà Nẵng,Silver,Elegant,5
+CUST-17888,56,Female,Hà Nội,New,Classic,0
+CUST-19769,55,Female,Hà Nội,New,Classic,1
+CUST-40298,40,Male,Cần Thơ,New,Elegant,0
+CUST-21112,46,Male,Nha Trang,Silver,Sporty,6
+CUST-92636,47,Female,Nha Trang,Silver,Classic,1
+CUST-64421,49,Female,Hà Nội,New,Casual,2
+CUST-85261,40,Female,Đà Nẵng,New,Elegant,2
+CUST-66776,46,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-63806,46,Male,Vũng Tàu,Silver,Classic,5
+CUST-85166,58,Female,Hải Phòng,Gold,Formal,10
+CUST-79729,58,Female,Biên Hòa,Silver,Classic,7
+CUST-54198,50,Female,Hà Nội,New,Casual,1
+CUST-27582,48,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-79365,53,Female,Nha Trang,New,Classic,2
+CUST-64524,45,Female,TP. Hồ Chí Minh,New,Formal,5
+CUST-67495,42,Male,Hải Phòng,New,Casual,0
+CUST-56793,44,Female,TP. Hồ Chí Minh,New,Casual,5
+CUST-32718,46,Female,Vũng Tàu,New,Formal,0
+CUST-89479,42,Female,Hà Nội,Silver,Formal,7
+CUST-41737,53,Female,Biên Hòa,New,Elegant,2
+CUST-59526,57,Female,TP. Hồ Chí Minh,Silver,Elegant,2
+CUST-22943,40,Female,TP. Hồ Chí Minh,Gold,Classic,9
+CUST-26997,52,Female,Đà Nẵng,Silver,Sporty,6
+CUST-99075,50,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-15516,54,Female,Biên Hòa,Silver,Classic,7
+CUST-91269,51,Female,Đà Lạt,New,Classic,0
+CUST-23380,40,Male,Vũng Tàu,New,Elegant,2
+CUST-40955,41,Male,Vũng Tàu,New,Elegant,2
+CUST-14278,52,Female,Hải Phòng,Silver,Elegant,5
+CUST-59046,60,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-30591,40,Female,Huế,Silver,Casual,5
+CUST-97961,54,Male,Hà Nội,Silver,Classic,3
+CUST-95133,61,Female,Huế,Silver,Elegant,2
+CUST-85893,50,Female,TP. Hồ Chí Minh,Silver,Classic,2
+CUST-91561,56,Female,Hải Phòng,Gold,Classic,15
+CUST-67873,46,Male,TP. Hồ Chí Minh,New,Classic,1
+CUST-54934,51,Female,TP. Hồ Chí Minh,Gold,Classic,15
+CUST-43416,40,Female,Hà Nội,Gold,Elegant,12
+CUST-29054,40,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-81292,59,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-95013,44,Male,TP. Hồ Chí Minh,New,Elegant,0
+CUST-34627,48,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-27933,40,Female,Đà Nẵng,New,Classic,1
+CUST-84963,40,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-23725,50,Female,Huế,Silver,Classic,7
+CUST-99773,46,Female,Hà Nội,Gold,Elegant,18
+CUST-13065,55,Female,Đà Nẵng,Silver,Elegant,4
+CUST-17559,55,Male,Hà Nội,Silver,Formal,3
+CUST-63346,54,Female,Đà Nẵng,New,Classic,1
+CUST-82773,53,Female,Đà Nẵng,New,Elegant,1
+CUST-91097,64,Female,Hải Phòng,Silver,Classic,8
+CUST-26872,43,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-48870,51,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-73132,61,Female,Hà Nội,Gold,Elegant,12
+CUST-77959,62,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-59515,40,Female,TP. Hồ Chí Minh,Silver,Sporty,1
+CUST-16748,49,Female,Hải Phòng,Silver,Elegant,4
+CUST-73079,62,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-17821,56,Female,Nha Trang,New,Casual,3
+CUST-19941,53,Female,TP. Hồ Chí Minh,New,Sporty,2
+CUST-44119,50,Male,TP. Hồ Chí Minh,New,Classic,2
+CUST-26983,48,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-41513,54,Female,Hà Nội,New,Elegant,1
+CUST-34395,49,Female,Đà Nẵng,Silver,Casual,5
+CUST-43670,51,Female,Huế,Silver,Elegant,3
+CUST-85173,52,Female,Cần Thơ,New,Casual,3
+CUST-49777,46,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-49799,56,Female,Hà Nội,New,Classic,3
+CUST-52090,75,Female,Huế,New,Elegant,5
+CUST-76607,40,Female,Hà Nội,New,Casual,1
+CUST-71432,54,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-48170,45,Female,Huế,Gold,Formal,11
+CUST-94702,56,Female,TP. Hồ Chí Minh,Gold,Sporty,9
+CUST-28786,52,Female,Hà Nội,Silver,Classic,5
+CUST-88351,58,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-98578,61,Female,Đà Nẵng,Silver,Elegant,4
+CUST-57373,53,Female,Hà Nội,Gold,Formal,25
+CUST-43825,61,Female,Hải Phòng,Silver,Casual,4
+CUST-57564,40,Male,TP. Hồ Chí Minh,New,Classic,0
+CUST-36167,64,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-79367,55,Female,TP. Hồ Chí Minh,Gold,Casual,16
+CUST-90448,60,Male,Nha Trang,New,Formal,0
+CUST-21064,42,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-64600,45,Female,Cần Thơ,New,Classic,4
+CUST-92236,53,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-41553,51,Female,Hà Nội,Silver,Sporty,4
+CUST-83413,54,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-63970,60,Female,TP. Hồ Chí Minh,Gold,Classic,11
+CUST-95074,40,Female,TP. Hồ Chí Minh,Silver,Casual,7
+CUST-98071,59,Female,Nha Trang,New,Casual,2
+CUST-82359,52,Female,Đà Lạt,Silver,Casual,3
+CUST-57145,50,Female,Nha Trang,Silver,Classic,5
+CUST-71709,40,Female,Đà Nẵng,Silver,Formal,2
+CUST-21115,56,Female,Đà Nẵng,New,Formal,4
+CUST-85613,40,Female,Hải Phòng,Silver,Classic,7
+CUST-68755,57,Male,TP. Hồ Chí Minh,New,Elegant,0
+CUST-18220,40,Female,Nha Trang,New,Classic,3
+CUST-99456,52,Female,Huế,New,Casual,1
+CUST-94079,51,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-27257,61,Female,Đà Lạt,Silver,Formal,6
+CUST-34939,50,Female,Huế,New,Elegant,1
+CUST-54774,46,Male,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-26510,47,Female,Đà Lạt,New,Formal,1
+CUST-78992,62,Female,Hà Nội,Silver,Formal,7
+CUST-37086,56,Male,Hà Nội,New,Classic,0
+CUST-35179,48,Female,TP. Hồ Chí Minh,Gold,Elegant,22
+CUST-94469,50,Male,Đà Nẵng,Gold,Classic,13
+CUST-25010,40,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-15503,55,Female,Biên Hòa,Silver,Classic,6
+CUST-96253,40,Male,TP. Hồ Chí Minh,New,Elegant,4
+CUST-48804,58,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-79134,53,Female,Hải Phòng,Silver,Casual,4
+CUST-44638,71,Female,Hà Nội,New,Casual,1
+CUST-71728,43,Female,Cần Thơ,New,Casual,2
+CUST-59482,51,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-85974,66,Female,Vũng Tàu,Silver,Classic,4
+CUST-89856,61,Female,Hải Phòng,Silver,Classic,7
+CUST-16036,46,Female,Hà Nội,New,Sporty,1
+CUST-56646,53,Female,Hà Nội,New,Classic,1
+CUST-72978,52,Female,Hà Nội,New,Casual,1
+CUST-23583,54,Female,Biên Hòa,Silver,Classic,0
+CUST-91710,46,Female,Hải Phòng,New,Formal,1
+CUST-82794,51,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-10413,40,Female,Hà Nội,Gold,Classic,15
+CUST-15217,53,Female,Huế,New,Formal,3
+CUST-34652,55,Female,Hà Nội,Silver,Elegant,3
+CUST-20248,50,Female,Cần Thơ,New,Casual,1
+CUST-89505,40,Female,Cần Thơ,New,Classic,1
+CUST-83041,59,Male,TP. Hồ Chí Minh,Silver,Sporty,9
+CUST-76439,54,Male,TP. Hồ Chí Minh,New,Casual,4
+CUST-97304,46,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-37121,49,Male,TP. Hồ Chí Minh,Gold,Formal,17
+CUST-13934,40,Male,Biên Hòa,Gold,Casual,14
+CUST-43903,43,Female,Hải Phòng,Silver,Classic,4
+CUST-88760,47,Female,Huế,New,Elegant,2
+CUST-55537,61,Female,Đà Nẵng,New,Elegant,3
+CUST-36321,46,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-57547,57,Female,Cần Thơ,Gold,Classic,11
+CUST-71563,47,Female,TP. Hồ Chí Minh,Silver,Formal,4
+CUST-27745,53,Female,Hà Nội,Silver,Elegant,4
+CUST-13523,50,Male,TP. Hồ Chí Minh,Gold,Casual,15
+CUST-67633,58,Female,Hải Phòng,New,Elegant,1
+CUST-93628,47,Female,Cần Thơ,Silver,Casual,4
+CUST-51742,40,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-96668,40,Female,Huế,New,Classic,0
+CUST-42218,47,Female,TP. Hồ Chí Minh,Gold,Elegant,10
+CUST-56635,42,Female,TP. Hồ Chí Minh,Gold,Casual,11
+CUST-27836,55,Female,Hà Nội,New,Classic,1
+CUST-13131,48,Female,Nha Trang,New,Casual,0
+CUST-41792,70,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-47606,40,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-21667,53,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-47428,42,Female,Hải Phòng,Silver,Elegant,5
+CUST-41390,48,Female,Nha Trang,New,Elegant,1
+CUST-65331,53,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-87137,40,Female,Biên Hòa,New,Casual,1
+CUST-86025,53,Female,Hà Nội,Gold,Sporty,15
+CUST-96437,67,Female,Hà Nội,New,Elegant,0
+CUST-66855,48,Female,Đà Nẵng,Silver,Casual,6
+CUST-60823,54,Female,Cần Thơ,New,Casual,3
+CUST-17043,60,Male,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-31390,50,Female,Đà Nẵng,New,Classic,2
+CUST-95017,47,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-46200,40,Female,Đà Nẵng,Silver,Classic,6
+CUST-80584,57,Female,Hải Phòng,Silver,Formal,4
+CUST-29597,51,Female,Vũng Tàu,New,Elegant,2
+CUST-45337,43,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-27341,53,Female,Hải Phòng,Gold,Sporty,16
+CUST-92659,47,Female,Đà Nẵng,New,Formal,1
+CUST-54680,47,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-18447,56,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-26206,41,Female,Vũng Tàu,New,Elegant,1
+CUST-99830,60,Female,Hà Nội,Silver,Casual,3
+CUST-52955,40,Female,Nha Trang,Silver,Classic,8
+CUST-26446,46,Female,Hà Nội,Silver,Casual,6
+CUST-60108,67,Female,Nha Trang,Silver,Classic,5
+CUST-22184,61,Male,Hà Nội,New,Elegant,1
+CUST-49036,52,Female,Biên Hòa,Silver,Elegant,4
+CUST-28703,44,Female,Hải Phòng,New,Elegant,2
+CUST-98469,47,Female,Hà Nội,New,Classic,1
+CUST-55575,52,Female,Hải Phòng,Silver,Formal,3
+CUST-93870,52,Female,Đà Nẵng,New,Casual,2
+CUST-50294,51,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-60722,51,Female,TP. Hồ Chí Minh,New,Formal,4
+CUST-13499,50,Female,Cần Thơ,Silver,Classic,4
+CUST-21901,40,Female,Cần Thơ,New,Classic,0
+CUST-63997,47,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-78991,59,Male,Huế,Silver,Elegant,5
+CUST-42879,41,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-19914,50,Female,Hà Nội,New,Casual,0
+CUST-68330,45,Female,Đà Nẵng,Silver,Casual,5
+CUST-64692,52,Female,Hà Nội,New,Casual,0
+CUST-24260,48,Female,TP. Hồ Chí Minh,Gold,Elegant,22
+CUST-60600,63,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-70235,56,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-47847,41,Female,Hà Nội,Silver,Formal,5
+CUST-50471,57,Female,Cần Thơ,Silver,Elegant,6
+CUST-54207,45,Female,Đà Nẵng,New,Classic,1
+CUST-55428,47,Female,Huế,New,Classic,0
+CUST-92049,54,Female,Đà Nẵng,Silver,Elegant,11
+CUST-12092,48,Female,TP. Hồ Chí Minh,Silver,Classic,9
+CUST-15766,59,Female,TP. Hồ Chí Minh,Gold,Elegant,19
+CUST-86320,45,Male,Nha Trang,New,Classic,0
+CUST-73766,47,Female,Hà Nội,Silver,Formal,4
+CUST-36519,46,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-71637,47,Female,Huế,Silver,Classic,2
+CUST-34826,60,Female,Cần Thơ,New,Formal,1
+CUST-16014,57,Female,Đà Nẵng,New,Classic,0
+CUST-83129,65,Male,Hà Nội,Silver,Formal,4
+CUST-29311,70,Female,Hà Nội,New,Classic,2
+CUST-79380,43,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-86928,52,Female,Cần Thơ,Silver,Elegant,8
+CUST-20336,42,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-21241,45,Female,Hà Nội,New,Casual,1
+CUST-46458,46,Female,Hà Nội,New,Formal,2
+CUST-21155,43,Female,Đà Nẵng,Silver,Elegant,3
+CUST-42301,43,Female,Hải Phòng,Gold,Formal,20
+CUST-91625,50,Female,Hà Nội,New,Classic,3
+CUST-47103,42,Female,Hà Nội,New,Classic,1
+CUST-89456,58,Female,TP. Hồ Chí Minh,Silver,Formal,2
+CUST-63014,44,Female,Hà Nội,New,Formal,1
+CUST-73684,74,Female,Đà Nẵng,Gold,Classic,18
+CUST-95751,48,Female,Hà Nội,Silver,Elegant,8
+CUST-65710,52,Female,Hải Phòng,New,Elegant,2
+CUST-59278,41,Female,Nha Trang,New,Elegant,1
+CUST-31343,65,Female,Vũng Tàu,New,Casual,1
+CUST-52064,60,Female,Biên Hòa,Silver,Classic,5
+CUST-54124,54,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-80810,41,Female,Hà Nội,Gold,Elegant,9
+CUST-44028,53,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-18828,43,Female,Cần Thơ,Gold,Classic,19
+CUST-20241,63,Male,Hà Nội,Gold,Classic,17
+CUST-42698,58,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-60612,52,Female,TP. Hồ Chí Minh,Silver,Sporty,7
+CUST-99853,40,Female,Hà Nội,Silver,Formal,4
+CUST-94018,44,Female,Cần Thơ,New,Casual,0
+CUST-61894,57,Male,Hải Phòng,New,Elegant,1
+CUST-91307,61,Female,Đà Nẵng,New,Formal,1
+CUST-26383,60,Female,Đà Lạt,New,Formal,2
+CUST-84359,40,Female,Hà Nội,Gold,Formal,16
+CUST-84721,54,Female,Hà Nội,New,Classic,1
+CUST-79153,60,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-94149,40,Female,Hải Phòng,Gold,Casual,14
+CUST-16698,51,Female,Đà Nẵng,New,Classic,1
+CUST-94311,54,Female,Hà Nội,Silver,Classic,3
+CUST-31022,49,Male,Biên Hòa,New,Classic,1
+CUST-56853,40,Female,TP. Hồ Chí Minh,New,Classic,3
+CUST-28764,49,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-53370,49,Female,Hải Phòng,New,Casual,3
+CUST-99477,50,Female,Biên Hòa,New,Casual,1
+CUST-77678,47,Male,Hải Phòng,New,Classic,1
+CUST-47969,48,Female,Biên Hòa,New,Elegant,1
+CUST-24025,51,Female,Hà Nội,New,Formal,4
+CUST-68697,55,Male,Đà Nẵng,Silver,Classic,7
+CUST-33612,49,Female,Nha Trang,New,Classic,2
+CUST-15089,48,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-59356,52,Female,TP. Hồ Chí Minh,Gold,Classic,14
+CUST-84321,40,Female,Vũng Tàu,Silver,Casual,3
+CUST-42585,55,Female,Hà Nội,Silver,Elegant,5
+CUST-96332,51,Female,TP. Hồ Chí Minh,Silver,Formal,4
+CUST-86758,52,Male,Huế,Silver,Elegant,5
+CUST-86918,59,Female,Đà Lạt,Gold,Sporty,11
+CUST-38888,40,Female,Vũng Tàu,Gold,Casual,16
+CUST-91784,40,Female,Đà Lạt,New,Elegant,3
+CUST-78715,54,Female,Hà Nội,Silver,Classic,9
+CUST-59600,51,Male,Biên Hòa,Silver,Classic,2
+CUST-10478,53,Female,TP. Hồ Chí Minh,New,Sporty,0
+CUST-49499,48,Female,Hải Phòng,Silver,Casual,5
+CUST-50686,57,Female,TP. Hồ Chí Minh,Silver,Classic,0
+CUST-27740,59,Female,Nha Trang,Silver,Classic,6
+CUST-53366,55,Male,Đà Nẵng,New,Sporty,2
+CUST-30921,49,Female,Huế,New,Casual,0
+CUST-84443,40,Female,Hà Nội,New,Classic,2
+CUST-23194,58,Female,Hà Nội,Silver,Classic,7
+CUST-74950,61,Female,TP. Hồ Chí Minh,Gold,Classic,15
+CUST-39316,57,Female,Hà Nội,Gold,Casual,17
+CUST-97776,44,Female,Hải Phòng,New,Casual,2
+CUST-17274,57,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-59158,58,Female,Đà Nẵng,Silver,Classic,8
+CUST-89803,64,Female,Hà Nội,Silver,Casual,6
+CUST-69446,44,Female,Hà Nội,Silver,Classic,5
+CUST-91750,50,Female,Hải Phòng,New,Casual,2
+CUST-13367,57,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-63873,52,Female,Hà Nội,Silver,Formal,5
+CUST-10403,43,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-95528,55,Female,Hà Nội,New,Casual,4
+CUST-60587,56,Female,Hải Phòng,Gold,Formal,21
+CUST-90500,52,Male,Hà Nội,Silver,Casual,6
+CUST-90726,53,Female,TP. Hồ Chí Minh,Gold,Classic,18
+CUST-19080,49,Female,Hải Phòng,New,Casual,2
+CUST-44294,63,Male,TP. Hồ Chí Minh,New,Elegant,4
+CUST-84026,44,Female,Đà Nẵng,Gold,Elegant,20
+CUST-92619,47,Female,TP. Hồ Chí Minh,Gold,Casual,16
+CUST-67371,52,Female,Biên Hòa,Gold,Formal,16
+CUST-14594,59,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-96713,40,Female,TP. Hồ Chí Minh,New,Sporty,2
+CUST-68455,41,Female,Đà Lạt,New,Classic,4
+CUST-19140,40,Female,Hải Phòng,New,Formal,2
+CUST-62203,52,Female,Đà Nẵng,Gold,Casual,9
+CUST-25857,43,Female,Đà Lạt,New,Formal,2
+CUST-91052,48,Male,Hà Nội,Silver,Formal,5
+CUST-94824,57,Female,Huế,Gold,Sporty,19
+CUST-82253,46,Female,Hải Phòng,Gold,Casual,10
+CUST-55983,53,Male,TP. Hồ Chí Minh,Gold,Elegant,15
+CUST-32496,49,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-56530,57,Female,Hà Nội,New,Casual,3
+CUST-76029,55,Female,Biên Hòa,Gold,Elegant,15
+CUST-76260,46,Female,Hà Nội,New,Formal,1
+CUST-98634,50,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-78213,60,Female,Hải Phòng,Gold,Formal,14
+CUST-28750,55,Female,Cần Thơ,Silver,Classic,4
+CUST-85447,40,Female,Hà Nội,Silver,Formal,2
+CUST-44007,57,Female,Nha Trang,New,Sporty,4
+CUST-94646,43,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-73201,63,Female,Huế,Gold,Casual,12
+CUST-53758,60,Female,Hà Nội,Silver,Elegant,9
+CUST-24514,54,Female,Hà Nội,New,Formal,1
+CUST-36718,53,Female,Hải Phòng,Silver,Formal,6
+CUST-18272,50,Female,Hà Nội,Gold,Elegant,13
+CUST-56513,57,Female,Đà Nẵng,Gold,Elegant,9
+CUST-43092,49,Male,Hà Nội,New,Classic,2
+CUST-16164,53,Female,Nha Trang,Silver,Elegant,4
+CUST-40220,58,Female,Đà Lạt,New,Formal,1
+CUST-94809,47,Female,Huế,New,Elegant,2
+CUST-38034,47,Female,Biên Hòa,New,Sporty,3
+CUST-42326,42,Female,Đà Lạt,Silver,Sporty,2
+CUST-58462,43,Male,TP. Hồ Chí Minh,Silver,Formal,5
+CUST-40632,40,Male,TP. Hồ Chí Minh,New,Casual,0
+CUST-67585,57,Female,Đà Lạt,New,Elegant,2
+CUST-35457,66,Female,Biên Hòa,New,Formal,2
+CUST-50371,63,Female,Vũng Tàu,New,Casual,1
+CUST-43542,40,Female,Cần Thơ,Silver,Sporty,4
+CUST-59648,57,Female,Hà Nội,New,Classic,2
+CUST-94737,63,Female,Biên Hòa,New,Elegant,3
+CUST-49431,48,Female,Biên Hòa,Gold,Sporty,18
+CUST-33685,52,Male,Hải Phòng,New,Formal,5
+CUST-38785,40,Female,Huế,Gold,Elegant,6
+CUST-77574,54,Female,Đà Nẵng,Silver,Casual,10
+CUST-44226,43,Male,Biên Hòa,Silver,Elegant,5
+CUST-73865,53,Female,Hà Nội,Silver,Classic,5
+CUST-91551,40,Female,Huế,New,Classic,3
+CUST-80123,56,Female,Hà Nội,Silver,Classic,5
+CUST-91027,60,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-43140,45,Female,Hà Nội,New,Elegant,1
+CUST-65357,42,Female,TP. Hồ Chí Minh,Silver,Classic,2
+CUST-80005,40,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-47729,49,Female,Biên Hòa,Gold,Classic,8
+CUST-48444,47,Female,Đà Nẵng,Silver,Classic,4
+CUST-45732,40,Female,Đà Lạt,New,Casual,0
+CUST-68295,55,Female,TP. Hồ Chí Minh,Gold,Casual,17
+CUST-41361,48,Female,Hà Nội,Gold,Elegant,11
+CUST-60487,43,Female,Nha Trang,Silver,Elegant,5
+CUST-61531,47,Female,Cần Thơ,New,Formal,1
+CUST-12715,60,Female,Đà Nẵng,Silver,Formal,4
+CUST-85737,56,Female,Nha Trang,Silver,Sporty,2
+CUST-79825,50,Female,Huế,New,Sporty,2
+CUST-19031,56,Female,Đà Nẵng,Gold,Casual,16
+CUST-95860,42,Female,Biên Hòa,Silver,Formal,3
+CUST-26895,52,Female,Cần Thơ,Gold,Classic,13
+CUST-28963,53,Female,Hải Phòng,Silver,Casual,7
+CUST-38078,48,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-67243,55,Female,Hà Nội,Gold,Casual,14
+CUST-21198,45,Female,TP. Hồ Chí Minh,Silver,Classic,8
+CUST-51116,56,Female,Cần Thơ,Silver,Classic,5
+CUST-61137,56,Female,Cần Thơ,New,Elegant,1
+CUST-79508,40,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-44765,61,Female,Hải Phòng,Silver,Formal,4
+CUST-80426,40,Male,Hà Nội,New,Casual,0
+CUST-43297,47,Female,TP. Hồ Chí Minh,Gold,Elegant,11
+CUST-93652,60,Male,Biên Hòa,Gold,Casual,13
+CUST-94911,49,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-35344,40,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-53176,43,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-56427,60,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-53612,40,Female,Cần Thơ,Silver,Casual,6
+CUST-38515,61,Female,Biên Hòa,New,Casual,1
+CUST-95595,51,Female,Đà Nẵng,Gold,Casual,12
+CUST-99009,42,Female,Đà Nẵng,New,Classic,0
+CUST-24899,47,Male,TP. Hồ Chí Minh,New,Casual,0
+CUST-90901,43,Female,Đà Nẵng,Gold,Elegant,16
+CUST-80515,58,Female,TP. Hồ Chí Minh,Silver,Classic,2
+CUST-90100,57,Female,Hà Nội,Gold,Casual,19
+CUST-60458,40,Female,Huế,Gold,Casual,18
+CUST-17555,48,Male,TP. Hồ Chí Minh,Silver,Formal,5
+CUST-92979,45,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-50972,62,Male,Hà Nội,Silver,Formal,7
+CUST-38336,41,Female,Huế,Silver,Classic,6
+CUST-15452,64,Female,Hà Nội,Gold,Classic,16
+CUST-45101,51,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-28367,42,Female,Huế,Silver,Casual,6
+CUST-13864,46,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-48718,45,Female,Biên Hòa,Silver,Formal,2
+CUST-97189,41,Male,Hà Nội,Silver,Elegant,4
+CUST-22530,52,Female,Cần Thơ,Gold,Sporty,14
+CUST-56020,42,Female,Vũng Tàu,New,Formal,2
+CUST-70537,40,Female,Đà Nẵng,New,Classic,2
+CUST-81720,48,Male,Hải Phòng,New,Elegant,2
+CUST-19047,40,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-75988,45,Female,Cần Thơ,New,Formal,0
+CUST-94217,44,Female,Đà Lạt,Gold,Sporty,12
+CUST-84573,45,Female,Cần Thơ,New,Formal,1
+CUST-27425,68,Female,Biên Hòa,New,Classic,3
+CUST-20671,52,Female,Đà Nẵng,Silver,Elegant,2
+CUST-45637,53,Female,Đà Nẵng,New,Classic,3
+CUST-64207,40,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-50232,46,Female,Cần Thơ,Gold,Elegant,17
+CUST-20090,53,Female,Đà Lạt,New,Elegant,0
+CUST-14450,43,Female,Hải Phòng,New,Elegant,0
+CUST-19397,59,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-75898,42,Female,Đà Nẵng,New,Casual,4
+CUST-18735,49,Female,Cần Thơ,New,Classic,0
+CUST-71198,47,Male,Biên Hòa,New,Classic,1
+CUST-91345,53,Female,Hà Nội,New,Casual,2
+CUST-12827,46,Female,Hà Nội,Gold,Sporty,20
+CUST-87733,49,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-80100,50,Female,Hà Nội,New,Casual,0
+CUST-27972,46,Female,Vũng Tàu,New,Casual,4
+CUST-46637,55,Female,TP. Hồ Chí Minh,Gold,Casual,15
+CUST-63421,53,Female,Đà Nẵng,New,Casual,3
+CUST-91323,51,Female,TP. Hồ Chí Minh,Gold,Classic,20
+CUST-33172,48,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-39950,58,Male,Vũng Tàu,Gold,Classic,8
+CUST-41273,50,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-55956,49,Female,Hà Nội,New,Elegant,1
+CUST-14836,52,Female,TP. Hồ Chí Minh,Silver,Classic,8
+CUST-31379,65,Female,Vũng Tàu,New,Classic,2
+CUST-41571,41,Female,Vũng Tàu,Silver,Classic,5
+CUST-40089,58,Female,Hà Nội,Silver,Classic,4
+CUST-38039,40,Female,Đà Nẵng,Silver,Elegant,8
+CUST-25778,53,Female,Hà Nội,New,Classic,2
+CUST-85290,64,Female,Đà Nẵng,Silver,Classic,6
+CUST-67022,55,Male,Hà Nội,New,Casual,2
+CUST-21788,53,Female,Nha Trang,Gold,Classic,20
+CUST-16808,47,Female,Biên Hòa,Silver,Elegant,6
+CUST-25415,52,Female,Hà Nội,Silver,Elegant,6
+CUST-55638,49,Male,TP. Hồ Chí Minh,Gold,Classic,23
+CUST-46999,45,Female,Hà Nội,Silver,Elegant,8
+CUST-19159,49,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-28116,53,Female,Hà Nội,New,Classic,1
+CUST-46301,45,Female,TP. Hồ Chí Minh,Silver,Formal,3
+CUST-18679,45,Female,Vũng Tàu,New,Casual,2
+CUST-88105,41,Male,Hà Nội,New,Elegant,2
+CUST-28739,55,Female,Huế,Silver,Classic,8
+CUST-12361,56,Female,Hà Nội,New,Casual,1
+CUST-69480,53,Female,Đà Nẵng,Silver,Elegant,6
+CUST-36361,59,Female,TP. Hồ Chí Minh,New,Formal,3
+CUST-27111,52,Male,Biên Hòa,New,Classic,2
+CUST-50607,55,Female,Hà Nội,Gold,Elegant,17
+CUST-61276,54,Female,Hà Nội,New,Elegant,0
+CUST-51502,51,Female,Cần Thơ,Silver,Formal,8
+CUST-28836,47,Female,Cần Thơ,Silver,Sporty,6
+CUST-39767,69,Female,Hải Phòng,Gold,Formal,11
+CUST-15207,48,Female,Hà Nội,New,Classic,2
+CUST-51552,46,Female,TP. Hồ Chí Minh,Silver,Casual,2
+CUST-91899,55,Female,Huế,New,Elegant,0
+CUST-83577,54,Female,Đà Nẵng,New,Classic,0
+CUST-51678,40,Female,Đà Nẵng,New,Casual,1
+CUST-82665,60,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-51142,51,Female,TP. Hồ Chí Minh,Silver,Classic,1
+CUST-18321,43,Female,Biên Hòa,New,Classic,0
+CUST-87940,61,Male,Cần Thơ,New,Elegant,1
+CUST-83526,57,Female,Hà Nội,Silver,Classic,5
+CUST-25055,41,Male,Biên Hòa,New,Elegant,0
+CUST-78129,66,Female,Đà Nẵng,New,Formal,5
+CUST-66584,57,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-77725,51,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-97699,64,Female,Cần Thơ,Silver,Elegant,5
+CUST-62370,53,Female,TP. Hồ Chí Minh,Gold,Classic,15
+CUST-28586,51,Female,Đà Nẵng,Silver,Elegant,3
+CUST-10826,46,Female,Cần Thơ,Silver,Classic,4
+CUST-10093,56,Female,Hà Nội,New,Classic,6
+CUST-41724,55,Female,Biên Hòa,Gold,Casual,12
+CUST-15785,52,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-83926,45,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-69249,53,Female,Hải Phòng,New,Casual,0
+CUST-65985,51,Male,Đà Nẵng,New,Formal,3
+CUST-59394,41,Male,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-49444,40,Female,Hải Phòng,New,Formal,1
+CUST-37561,56,Female,Đà Lạt,New,Sporty,2
+CUST-24228,40,Female,Nha Trang,New,Formal,1
+CUST-55703,53,Female,Nha Trang,Gold,Classic,19
+CUST-21583,48,Male,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-33704,62,Female,TP. Hồ Chí Minh,Gold,Classic,15
+CUST-76080,48,Female,Đà Nẵng,Gold,Casual,18
+CUST-43747,57,Female,Hà Nội,Gold,Sporty,21
+CUST-23815,48,Female,Cần Thơ,New,Elegant,0
+CUST-59148,52,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-40522,57,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-82391,48,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-99419,59,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-76376,44,Male,TP. Hồ Chí Minh,New,Casual,2
+CUST-98574,54,Female,Đà Nẵng,New,Classic,3
+CUST-46665,59,Female,Đà Nẵng,Silver,Formal,3
+CUST-35257,57,Male,TP. Hồ Chí Minh,New,Classic,3
+CUST-32787,67,Female,Hà Nội,New,Formal,0
+CUST-64229,45,Male,Nha Trang,New,Casual,3
+CUST-52582,40,Female,Hà Nội,Silver,Formal,2
+CUST-42584,44,Female,TP. Hồ Chí Minh,New,Elegant,4
+CUST-62688,57,Female,Đà Nẵng,New,Classic,2
+CUST-91539,55,Female,Đà Nẵng,New,Formal,3
+CUST-14332,52,Female,Đà Lạt,Silver,Elegant,3
+CUST-56467,43,Female,Hải Phòng,New,Classic,0
+CUST-12327,58,Female,Vũng Tàu,New,Casual,1
+CUST-50654,42,Female,Huế,Gold,Casual,7
+CUST-72236,61,Female,Hà Nội,Gold,Formal,22
+CUST-42500,74,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-82575,54,Female,TP. Hồ Chí Minh,New,Sporty,0
+CUST-43632,56,Male,TP. Hồ Chí Minh,New,Classic,1
+CUST-58257,48,Male,Đà Nẵng,Silver,Casual,3
+CUST-75340,40,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-59617,47,Female,TP. Hồ Chí Minh,Gold,Casual,11
+CUST-10565,43,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-74361,40,Female,Hải Phòng,Silver,Classic,7
+CUST-32067,65,Female,Hải Phòng,New,Classic,1
+CUST-35324,54,Female,Vũng Tàu,Gold,Casual,15
+CUST-92923,55,Female,Hà Nội,Silver,Classic,2
+CUST-67474,49,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-51450,50,Female,Biên Hòa,New,Formal,1
+CUST-29343,59,Female,Hải Phòng,Silver,Elegant,1
+CUST-64067,51,Female,Đà Nẵng,Silver,Casual,9
+CUST-26847,56,Female,Đà Nẵng,Gold,Classic,21
+CUST-49817,50,Female,Hà Nội,Silver,Elegant,2
+CUST-86471,49,Female,Đà Lạt,Silver,Classic,4
+CUST-93730,40,Female,Hải Phòng,New,Classic,5
+CUST-95473,40,Female,Đà Nẵng,Silver,Formal,6
+CUST-93493,49,Female,Đà Nẵng,Gold,Classic,15
+CUST-86669,52,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-26089,41,Female,TP. Hồ Chí Minh,New,Classic,4
+CUST-44425,51,Female,Cần Thơ,New,Formal,1
+CUST-90422,52,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-49316,40,Female,Hà Nội,Gold,Classic,13
+CUST-25733,44,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-67263,55,Male,Biên Hòa,New,Elegant,3
+CUST-96546,55,Female,TP. Hồ Chí Minh,Gold,Classic,12
+CUST-22022,42,Female,TP. Hồ Chí Minh,Silver,Classic,9
+CUST-84804,53,Male,Hải Phòng,New,Casual,3
+CUST-96781,60,Female,Nha Trang,New,Formal,0
+CUST-71264,58,Female,Hải Phòng,New,Elegant,1
+CUST-44919,51,Female,Huế,New,Casual,0
+CUST-15356,48,Female,Hà Nội,Silver,Casual,1
+CUST-82127,46,Female,Biên Hòa,Silver,Formal,4
+CUST-13850,55,Male,Đà Lạt,Silver,Formal,3
+CUST-25365,53,Male,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-24221,57,Female,Hải Phòng,New,Elegant,2
+CUST-25448,53,Female,Hà Nội,New,Classic,2
+CUST-39554,58,Female,TP. Hồ Chí Minh,New,Formal,5
+CUST-17534,52,Female,Hà Nội,New,Casual,1
+CUST-76579,58,Female,Hà Nội,Silver,Classic,4
+CUST-20420,58,Female,Vũng Tàu,New,Formal,0
+CUST-94292,45,Female,TP. Hồ Chí Minh,Silver,Formal,3
+CUST-75859,40,Female,Đà Nẵng,New,Casual,3
+CUST-66849,64,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-28262,54,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-64811,40,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-29210,46,Male,TP. Hồ Chí Minh,Silver,Sporty,10
+CUST-46073,58,Female,Hải Phòng,Silver,Elegant,5
+CUST-42244,49,Female,Biên Hòa,New,Elegant,2
+CUST-98844,47,Female,TP. Hồ Chí Minh,Silver,Casual,7
+CUST-50727,63,Female,Vũng Tàu,Silver,Classic,3
+CUST-72611,43,Male,Hải Phòng,New,Elegant,2
+CUST-75759,45,Male,Đà Nẵng,New,Elegant,0
+CUST-57224,53,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-54191,55,Female,Hà Nội,New,Classic,3
+CUST-27658,55,Female,Huế,Gold,Formal,14
+CUST-75943,59,Female,Đà Nẵng,New,Casual,1
+CUST-38688,53,Female,TP. Hồ Chí Minh,Silver,Casual,2
+CUST-32566,55,Female,Nha Trang,Silver,Elegant,3
+CUST-61501,49,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-74672,52,Female,Nha Trang,Silver,Classic,1
+CUST-57825,52,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-44579,53,Female,Biên Hòa,New,Sporty,1
+CUST-47113,58,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-18130,56,Female,Hà Nội,New,Sporty,2
+CUST-13808,52,Female,Hải Phòng,New,Elegant,3
+CUST-81812,45,Female,Hà Nội,Silver,Classic,3
+CUST-49868,52,Female,Biên Hòa,Silver,Casual,7
+CUST-57245,51,Female,Hải Phòng,Silver,Classic,5
+CUST-58492,53,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-82160,69,Male,Hà Nội,Gold,Elegant,10
+CUST-33530,47,Female,Biên Hòa,New,Casual,3
+CUST-85464,55,Female,Đà Nẵng,Silver,Elegant,4
+CUST-15712,60,Female,Đà Lạt,Silver,Elegant,8
+CUST-22875,52,Female,Hà Nội,Silver,Classic,7
+CUST-12309,70,Female,Biên Hòa,New,Sporty,1
+CUST-24728,48,Female,Đà Nẵng,Silver,Casual,5
+CUST-40002,54,Female,Hải Phòng,Silver,Casual,0
+CUST-82166,45,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-75469,49,Female,Hà Nội,Silver,Elegant,7
+CUST-67187,53,Female,Biên Hòa,New,Elegant,3
+CUST-39642,58,Female,Vũng Tàu,Silver,Formal,5
+CUST-13054,54,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-18665,62,Female,Biên Hòa,Silver,Classic,5
+CUST-77919,51,Female,Hà Nội,New,Casual,1
+CUST-84591,49,Female,Hà Nội,New,Casual,2
+CUST-48257,73,Female,Hà Nội,New,Classic,0
+CUST-17612,55,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-10045,46,Female,Hà Nội,Silver,Classic,3
+CUST-29877,46,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-14630,44,Female,Hà Nội,Silver,Elegant,4
+CUST-54722,59,Female,Cần Thơ,New,Casual,3
+CUST-15920,49,Female,Huế,New,Elegant,0
+CUST-34603,53,Female,Hải Phòng,New,Formal,2
+CUST-56812,51,Male,Hà Nội,New,Sporty,0
+CUST-36997,57,Female,Cần Thơ,New,Elegant,0
+CUST-23462,45,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-38578,43,Female,Cần Thơ,New,Classic,1
+CUST-18426,53,Female,Đà Nẵng,New,Formal,1
+CUST-90305,56,Female,TP. Hồ Chí Minh,Silver,Classic,2
+CUST-87090,54,Female,Hà Nội,Gold,Casual,18
+CUST-59975,45,Female,Nha Trang,Silver,Elegant,7
+CUST-22620,57,Male,Biên Hòa,New,Elegant,3
+CUST-33451,46,Female,Hải Phòng,New,Casual,3
+CUST-88318,47,Female,Biên Hòa,New,Casual,5
+CUST-29466,44,Female,Biên Hòa,Silver,Formal,3
+CUST-53084,62,Male,Hà Nội,Silver,Formal,9
+CUST-24680,57,Male,Cần Thơ,New,Casual,0
+CUST-80285,56,Female,TP. Hồ Chí Minh,New,Classic,3
+CUST-72660,61,Male,TP. Hồ Chí Minh,New,Formal,4
+CUST-75676,74,Male,Hà Nội,New,Formal,2
+CUST-30630,40,Female,Vũng Tàu,Gold,Formal,16
+CUST-38202,46,Male,Cần Thơ,New,Sporty,1
+CUST-44616,47,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-46545,45,Female,TP. Hồ Chí Minh,New,Casual,5
+CUST-92140,43,Female,TP. Hồ Chí Minh,New,Casual,3
+CUST-82031,49,Female,Cần Thơ,New,Elegant,3
+CUST-89476,42,Female,Biên Hòa,New,Casual,2
+CUST-82988,54,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-69750,52,Male,TP. Hồ Chí Minh,New,Classic,2
+CUST-79073,55,Female,Đà Nẵng,Silver,Elegant,0
+CUST-38398,56,Male,TP. Hồ Chí Minh,Silver,Casual,10
+CUST-40994,56,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-76937,49,Female,Hà Nội,Gold,Classic,15
+CUST-68971,68,Female,Hà Nội,New,Elegant,1
+CUST-42345,53,Female,TP. Hồ Chí Minh,Gold,Classic,12
+CUST-14510,40,Female,Đà Lạt,Gold,Elegant,17
+CUST-28420,43,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-47263,40,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-25600,52,Female,Cần Thơ,Silver,Formal,7
+CUST-50460,51,Female,Biên Hòa,New,Classic,0
+CUST-36052,48,Male,TP. Hồ Chí Minh,New,Casual,2
+CUST-37926,68,Female,Hà Nội,Silver,Formal,4
+CUST-38113,56,Female,Hải Phòng,New,Classic,0
+CUST-95682,57,Female,TP. Hồ Chí Minh,Gold,Formal,12
+CUST-20373,44,Male,Hải Phòng,Silver,Elegant,6
+CUST-73855,44,Female,TP. Hồ Chí Minh,Gold,Classic,13
+CUST-69956,52,Female,Hà Nội,Silver,Elegant,1
+CUST-18352,53,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-19297,40,Female,Cần Thơ,Silver,Sporty,1
+CUST-55312,50,Female,TP. Hồ Chí Minh,Gold,Casual,13
+CUST-12787,52,Female,Hà Nội,Gold,Casual,15
+CUST-97687,50,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-12085,45,Female,Cần Thơ,Silver,Formal,2
+CUST-97041,47,Female,Hà Nội,Silver,Classic,3
+CUST-98511,50,Male,Hải Phòng,New,Elegant,1
+CUST-67268,52,Female,Hải Phòng,Gold,Sporty,14
+CUST-79885,56,Female,TP. Hồ Chí Minh,New,Classic,6
+CUST-70206,60,Female,Vũng Tàu,New,Classic,0
+CUST-35891,49,Female,Đà Lạt,New,Elegant,0
+CUST-99281,48,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-31380,55,Female,Hà Nội,Silver,Formal,4
+CUST-58453,56,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-54437,48,Female,Hà Nội,New,Sporty,1
+CUST-47161,58,Female,Đà Nẵng,New,Elegant,1
+CUST-23665,59,Female,Đà Lạt,New,Casual,1
+CUST-25475,62,Male,Huế,New,Casual,0
+CUST-60513,66,Female,TP. Hồ Chí Minh,Silver,Casual,11
+CUST-83057,45,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-72382,52,Female,Hà Nội,New,Classic,3
+CUST-19815,52,Female,Đà Nẵng,New,Casual,0
+CUST-49718,51,Male,Hà Nội,Silver,Formal,3
+CUST-68223,46,Female,Biên Hòa,Gold,Classic,16
+CUST-29623,40,Female,Huế,New,Classic,1
+CUST-87654,52,Female,Hà Nội,New,Casual,1
+CUST-51789,45,Female,Hải Phòng,Silver,Classic,6
+CUST-33751,52,Male,Đà Nẵng,New,Elegant,1
+CUST-31891,45,Female,Nha Trang,Silver,Sporty,12
+CUST-79398,43,Female,TP. Hồ Chí Minh,Gold,Elegant,13
+CUST-99464,53,Female,Hà Nội,Silver,Elegant,4
+CUST-22111,53,Female,Hải Phòng,Gold,Casual,12
+CUST-92364,56,Female,Hà Nội,New,Elegant,0
+CUST-16112,69,Female,Đà Nẵng,New,Elegant,1
+CUST-65528,54,Female,Hà Nội,New,Elegant,2
+CUST-96086,55,Female,Hải Phòng,New,Elegant,0
+CUST-35421,43,Female,Nha Trang,New,Classic,3
+CUST-91882,41,Female,Hà Nội,New,Formal,3
+CUST-87041,64,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-64390,44,Female,Cần Thơ,New,Classic,1
+CUST-45204,43,Female,Hà Nội,Silver,Casual,10
+CUST-47111,51,Female,Đà Nẵng,New,Classic,2
+CUST-12317,51,Male,Hải Phòng,New,Classic,3
+CUST-23514,44,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-93030,49,Female,Huế,Silver,Classic,6
+CUST-26905,61,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-35147,45,Female,Hải Phòng,Silver,Elegant,6
+CUST-97659,40,Female,Hà Nội,New,Formal,1
+CUST-49555,59,Female,Hà Nội,New,Sporty,2
+CUST-44241,55,Female,Hà Nội,Gold,Formal,21
+CUST-20125,47,Male,Đà Lạt,New,Elegant,1
+CUST-20157,40,Female,Đà Lạt,New,Casual,2
+CUST-63103,46,Female,Nha Trang,New,Classic,0
+CUST-77977,51,Female,Hà Nội,New,Elegant,3
+CUST-71442,61,Male,Đà Nẵng,New,Formal,1
+CUST-22143,43,Male,Nha Trang,New,Casual,2
+CUST-30588,51,Female,Hải Phòng,Silver,Elegant,6
+CUST-83672,57,Female,Hà Nội,Gold,Sporty,19
+CUST-21790,40,Female,Đà Lạt,New,Elegant,3
+CUST-80016,60,Female,Hà Nội,New,Classic,3
+CUST-49899,42,Female,Hà Nội,Silver,Elegant,5
+CUST-39510,54,Female,Đà Lạt,New,Elegant,2
+CUST-13438,53,Female,TP. Hồ Chí Minh,Gold,Sporty,21
+CUST-10659,60,Male,TP. Hồ Chí Minh,New,Classic,2
+CUST-42134,56,Male,Đà Nẵng,Silver,Elegant,5
+CUST-24724,40,Male,Vũng Tàu,Gold,Casual,11
+CUST-60132,45,Female,Hà Nội,New,Formal,0
+CUST-85559,53,Female,Cần Thơ,Silver,Formal,4
+CUST-35524,50,Female,TP. Hồ Chí Minh,Silver,Formal,7
+CUST-81652,55,Female,Hà Nội,Silver,Formal,7
+CUST-67726,58,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-29216,56,Male,Đà Nẵng,New,Classic,3
+CUST-35148,50,Female,Hà Nội,New,Formal,3
+CUST-45999,40,Female,TP. Hồ Chí Minh,Gold,Elegant,8
+CUST-41833,48,Female,Hải Phòng,New,Elegant,0
+CUST-61453,55,Female,Đà Nẵng,New,Classic,1
+CUST-50549,43,Female,Cần Thơ,Gold,Elegant,10
+CUST-32638,57,Female,Huế,New,Casual,0
+CUST-36816,59,Female,TP. Hồ Chí Minh,Silver,Formal,3
+CUST-35406,53,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-65656,40,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-99914,41,Female,Đà Nẵng,New,Classic,7
+CUST-63236,67,Female,Hà Nội,New,Casual,2
+CUST-31096,47,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-71458,40,Female,Hà Nội,New,Elegant,1
+CUST-50085,61,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-64995,52,Female,Vũng Tàu,New,Classic,1
+CUST-52207,60,Female,Đà Nẵng,Silver,Classic,3
+CUST-19242,54,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-76973,55,Male,Đà Nẵng,New,Elegant,2
+CUST-30478,54,Female,Hải Phòng,New,Casual,2
+CUST-77157,57,Female,TP. Hồ Chí Minh,New,Classic,3
+CUST-97541,70,Male,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-75431,59,Female,Cần Thơ,New,Formal,2
+CUST-11835,40,Female,Hà Nội,Gold,Casual,12
+CUST-95915,55,Female,Đà Nẵng,Silver,Elegant,7
+CUST-92217,61,Female,Đà Nẵng,Silver,Casual,0
+CUST-84070,61,Female,Cần Thơ,Silver,Elegant,5
+CUST-37759,48,Female,Vũng Tàu,New,Elegant,2
+CUST-91147,61,Female,Nha Trang,Gold,Casual,12
+CUST-93834,59,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-90165,72,Female,Hà Nội,Silver,Elegant,3
+CUST-45383,45,Female,Đà Nẵng,New,Formal,1
+CUST-31450,47,Female,Huế,New,Casual,1
+CUST-81074,49,Female,Biên Hòa,Silver,Formal,6
+CUST-39348,48,Female,Nha Trang,New,Formal,0
+CUST-81413,44,Female,Hà Nội,Silver,Classic,5
+CUST-65533,40,Female,Cần Thơ,New,Casual,2
+CUST-48894,48,Female,Đà Lạt,Silver,Classic,1
+CUST-53028,54,Female,Hải Phòng,New,Casual,2
+CUST-71900,48,Female,Hải Phòng,New,Classic,1
+CUST-57836,67,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-85250,52,Female,Hải Phòng,Silver,Elegant,5
+CUST-38306,62,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-38825,54,Female,Hà Nội,Gold,Elegant,14
+CUST-85022,58,Female,Nha Trang,Silver,Casual,2
+CUST-84437,54,Female,Biên Hòa,Silver,Formal,3
+CUST-92223,62,Male,Huế,Silver,Casual,5
+CUST-25502,52,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-49002,55,Female,Hà Nội,Gold,Elegant,15
+CUST-41852,54,Female,TP. Hồ Chí Minh,Silver,Formal,6
+CUST-63612,49,Female,Huế,New,Classic,2
+CUST-94557,55,Female,Hải Phòng,Silver,Classic,4
+CUST-86885,69,Female,Biên Hòa,New,Sporty,2
+CUST-71571,49,Male,TP. Hồ Chí Minh,New,Elegant,2
+CUST-45149,55,Female,Đà Nẵng,Silver,Classic,7
+CUST-57378,62,Male,Nha Trang,Silver,Elegant,5
+CUST-99829,61,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-57839,52,Male,Biên Hòa,New,Classic,1
+CUST-70224,40,Female,Đà Nẵng,Gold,Casual,20
+CUST-48693,56,Female,Hà Nội,New,Classic,1
+CUST-45117,40,Female,Hà Nội,New,Casual,1
+CUST-55646,63,Female,Đà Lạt,Silver,Formal,8
+CUST-95770,53,Female,Hải Phòng,Silver,Formal,2
+CUST-73089,59,Female,Cần Thơ,Silver,Elegant,3
+CUST-98243,44,Female,Nha Trang,Silver,Casual,3
+CUST-15635,40,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-64962,54,Female,Nha Trang,New,Casual,2
+CUST-37039,51,Male,Biên Hòa,Silver,Classic,3
+CUST-32417,48,Female,Hà Nội,Silver,Casual,6
+CUST-75513,52,Female,Cần Thơ,New,Elegant,1
+CUST-63609,74,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-61177,58,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-93740,60,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-77587,58,Male,Huế,New,Casual,1
+CUST-71638,63,Female,Hà Nội,New,Classic,1
+CUST-57980,50,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-57638,40,Female,Hải Phòng,New,Casual,1
+CUST-94418,50,Female,Hà Nội,Silver,Casual,6
+CUST-27798,58,Female,Nha Trang,Silver,Casual,7
+CUST-75171,44,Female,Biên Hòa,Silver,Casual,9
+CUST-90004,50,Female,Hà Nội,Gold,Formal,12
+CUST-90362,46,Female,Hà Nội,New,Elegant,3
+CUST-69301,64,Female,Vũng Tàu,New,Classic,3
+CUST-34705,57,Male,Hà Nội,Silver,Casual,5
+CUST-34918,57,Female,Hà Nội,New,Elegant,4
+CUST-34656,56,Female,Biên Hòa,New,Elegant,1
+CUST-22186,51,Female,Đà Lạt,New,Elegant,2
+CUST-77316,53,Female,Hải Phòng,Gold,Classic,15
+CUST-34184,42,Female,Đà Nẵng,New,Classic,1
+CUST-86570,40,Female,Đà Lạt,New,Casual,3
+CUST-21370,53,Female,Hải Phòng,New,Casual,1
+CUST-25132,54,Female,Hải Phòng,Silver,Casual,2
+CUST-68702,61,Female,Huế,New,Elegant,1
+CUST-90270,64,Female,Hải Phòng,Gold,Casual,12
+CUST-31683,64,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-76035,44,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-85651,49,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-92605,55,Female,Đà Nẵng,Silver,Classic,5
+CUST-78402,72,Female,TP. Hồ Chí Minh,Silver,Formal,5
+CUST-24276,63,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-27388,60,Female,Nha Trang,New,Elegant,1
+CUST-80765,48,Male,TP. Hồ Chí Minh,New,Elegant,1
+CUST-38706,44,Female,Hà Nội,New,Elegant,1
+CUST-88006,58,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-11737,43,Female,TP. Hồ Chí Minh,New,Casual,3
+CUST-36815,50,Female,Nha Trang,New,Classic,2
+CUST-68277,51,Female,TP. Hồ Chí Minh,Gold,Formal,8
+CUST-74446,64,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-67629,49,Male,Nha Trang,Silver,Classic,4
+CUST-21542,40,Female,Hà Nội,Silver,Casual,5
+CUST-68683,56,Female,Hà Nội,Silver,Casual,6
+CUST-38562,46,Female,Nha Trang,New,Formal,0
+CUST-99173,52,Female,Đà Nẵng,Silver,Elegant,8
+CUST-82729,51,Male,Nha Trang,New,Classic,1
+CUST-21060,49,Male,Huế,Silver,Casual,8
+CUST-32730,58,Male,Biên Hòa,Gold,Elegant,12
+CUST-48690,40,Female,Hà Nội,Gold,Formal,14
+CUST-50828,47,Female,Nha Trang,New,Classic,2
+CUST-45886,57,Female,Cần Thơ,Silver,Elegant,5
+CUST-71241,47,Female,Hà Nội,New,Casual,1
+CUST-40102,40,Female,Biên Hòa,New,Casual,4
+CUST-45409,57,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-66895,60,Female,Đà Lạt,New,Formal,2
+CUST-26662,51,Male,Đà Nẵng,Silver,Elegant,6
+CUST-46869,40,Female,Đà Nẵng,New,Casual,2
+CUST-39055,57,Male,Hà Nội,New,Sporty,1
+CUST-89761,40,Female,Đà Lạt,Gold,Elegant,11
+CUST-98358,54,Female,Đà Nẵng,Silver,Classic,6
+CUST-54752,44,Female,Hà Nội,New,Formal,2
+CUST-61843,42,Female,Hà Nội,Silver,Elegant,3
+CUST-73294,48,Female,Nha Trang,Silver,Formal,6
+CUST-23147,50,Female,Hà Nội,New,Classic,0
+CUST-59405,46,Female,Đà Nẵng,Silver,Formal,4
+CUST-88643,56,Male,Hải Phòng,Gold,Casual,12
+CUST-45452,48,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-44668,59,Female,Đà Nẵng,New,Casual,0
+CUST-74946,54,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-74613,46,Female,Biên Hòa,Gold,Casual,5
+CUST-42217,45,Female,Huế,New,Formal,0
+CUST-72837,40,Female,TP. Hồ Chí Minh,New,Sporty,2
+CUST-93331,54,Female,Đà Nẵng,Gold,Sporty,16
+CUST-41765,49,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-36602,40,Female,Biên Hòa,New,Casual,1
+CUST-25152,47,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-68046,44,Male,Đà Nẵng,New,Casual,0
+CUST-76047,64,Female,Biên Hòa,Gold,Casual,7
+CUST-56738,40,Female,Hà Nội,New,Elegant,2
+CUST-49831,40,Female,Đà Nẵng,New,Elegant,3
+CUST-97233,60,Female,Hà Nội,Silver,Casual,5
+CUST-34429,62,Female,Đà Nẵng,New,Classic,0
+CUST-75933,46,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-75651,46,Female,Biên Hòa,Gold,Elegant,18
+CUST-88501,56,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-35478,40,Female,Hà Nội,Gold,Sporty,12
+CUST-49549,40,Male,Huế,Silver,Casual,8
+CUST-96902,49,Female,Nha Trang,New,Sporty,2
+CUST-13540,64,Female,Hải Phòng,Silver,Formal,4
+CUST-61340,48,Male,Cần Thơ,Silver,Elegant,8
+CUST-84418,52,Female,TP. Hồ Chí Minh,Silver,Elegant,2
+CUST-96749,61,Female,Hải Phòng,Silver,Elegant,6
+CUST-69649,68,Female,Hà Nội,New,Elegant,0
+CUST-17978,47,Female,Hà Nội,New,Casual,2
+CUST-25591,51,Female,Biên Hòa,Silver,Elegant,0
+CUST-58892,66,Female,Cần Thơ,New,Formal,2
+CUST-40148,40,Female,TP. Hồ Chí Minh,New,Casual,3
+CUST-56234,60,Female,Hà Nội,New,Classic,2
+CUST-93578,43,Female,Biên Hòa,New,Sporty,4
+CUST-64008,52,Female,Hà Nội,Silver,Sporty,4
+CUST-51592,50,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-16409,44,Male,Hà Nội,Silver,Casual,7
+CUST-62758,44,Female,Hà Nội,New,Sporty,3
+CUST-67909,54,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-68061,59,Female,Vũng Tàu,Silver,Formal,5
+CUST-36648,50,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-50567,52,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-73308,56,Male,Cần Thơ,Silver,Classic,7
+CUST-73890,44,Female,Đà Nẵng,New,Elegant,2
+CUST-46419,57,Female,Cần Thơ,New,Elegant,3
+CUST-38080,58,Female,Hải Phòng,Silver,Elegant,7
+CUST-66984,72,Female,Đà Nẵng,New,Elegant,4
+CUST-91110,48,Female,Hải Phòng,Gold,Elegant,17
+CUST-23477,48,Female,Nha Trang,Silver,Classic,5
+CUST-44572,58,Female,Cần Thơ,New,Formal,1
+CUST-53707,58,Female,Nha Trang,Silver,Casual,6
+CUST-65634,47,Male,Hà Nội,New,Casual,2
+CUST-79304,48,Female,Hải Phòng,New,Elegant,0
+CUST-23403,56,Female,Cần Thơ,Gold,Formal,14
+CUST-48194,45,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-21353,48,Female,Huế,Silver,Classic,5
+CUST-80209,52,Male,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-50325,59,Female,TP. Hồ Chí Minh,Silver,Formal,5
+CUST-44980,47,Female,Huế,New,Sporty,0
+CUST-15461,40,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-87274,40,Male,TP. Hồ Chí Minh,New,Casual,1
+CUST-34718,41,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-34696,41,Female,Đà Lạt,New,Casual,1
+CUST-97418,50,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-58633,42,Female,Hải Phòng,New,Elegant,3
+CUST-10203,46,Male,Nha Trang,Silver,Sporty,4
+CUST-76352,45,Female,Hải Phòng,Silver,Sporty,6
+CUST-66237,48,Female,Biên Hòa,Gold,Classic,16
+CUST-35275,62,Female,Nha Trang,New,Elegant,0
+CUST-48546,57,Male,TP. Hồ Chí Minh,Gold,Elegant,10
+CUST-99320,52,Female,Biên Hòa,Silver,Classic,7
+CUST-91302,48,Female,Đà Nẵng,New,Elegant,0
+CUST-28538,48,Male,Hà Nội,New,Casual,2
+CUST-28654,54,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-82815,56,Male,Hải Phòng,Silver,Elegant,5
+CUST-79851,44,Female,Hà Nội,Silver,Elegant,4
+CUST-66093,52,Female,Đà Nẵng,New,Casual,1
+CUST-76085,40,Female,TP. Hồ Chí Minh,Silver,Classic,9
+CUST-14761,53,Female,Đà Nẵng,New,Classic,2
+CUST-64809,58,Female,Hà Nội,New,Casual,0
+CUST-67877,49,Female,Huế,Gold,Casual,7
+CUST-79928,66,Male,TP. Hồ Chí Minh,Gold,Classic,11
+CUST-15025,44,Female,Hà Nội,Silver,Casual,1
+CUST-40139,53,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-92020,51,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-14410,51,Female,Hải Phòng,New,Classic,0
+CUST-59219,51,Female,Đà Nẵng,New,Formal,3
+CUST-40050,52,Female,Hà Nội,New,Sporty,0
+CUST-70022,58,Female,Huế,Gold,Casual,13
+CUST-91044,63,Female,TP. Hồ Chí Minh,Silver,Formal,7
+CUST-82953,51,Female,Hà Nội,New,Elegant,4
+CUST-23457,58,Female,Nha Trang,New,Casual,1
+CUST-83876,46,Male,Hải Phòng,New,Elegant,2
+CUST-51265,58,Female,Hải Phòng,New,Elegant,3
+CUST-42649,45,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-75287,60,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-81916,69,Female,Đà Nẵng,Silver,Casual,5
+CUST-82040,51,Female,Hà Nội,New,Formal,0
+CUST-22549,40,Male,TP. Hồ Chí Minh,New,Classic,2
+CUST-97034,47,Male,Vũng Tàu,Gold,Formal,16
+CUST-83924,61,Female,Hải Phòng,New,Formal,3
+CUST-26484,56,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-68146,53,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-56828,60,Female,Cần Thơ,New,Classic,3
+CUST-56542,55,Female,TP. Hồ Chí Minh,New,Casual,3
+CUST-45257,61,Female,Hà Nội,New,Sporty,0
+CUST-95486,59,Female,Hà Nội,New,Elegant,3
+CUST-50942,64,Female,Cần Thơ,Silver,Classic,3
+CUST-16317,54,Female,Hải Phòng,New,Classic,3
+CUST-63544,59,Female,Hà Nội,Silver,Elegant,2
+CUST-90602,49,Female,Hà Nội,Gold,Formal,15
+CUST-38310,47,Female,Hải Phòng,New,Elegant,1
+CUST-10146,65,Female,Đà Nẵng,New,Classic,2
+CUST-90730,53,Female,Hải Phòng,New,Casual,1
+CUST-23830,58,Female,Hà Nội,New,Classic,2
+CUST-20474,52,Female,Cần Thơ,New,Elegant,5
+CUST-43472,47,Female,Biên Hòa,Silver,Casual,4
+CUST-12646,52,Female,Đà Nẵng,New,Classic,3
+CUST-86989,63,Female,Hà Nội,New,Sporty,2
+CUST-32294,56,Female,Hải Phòng,Silver,Casual,7
+CUST-24476,40,Female,TP. Hồ Chí Minh,Silver,Sporty,3
+CUST-28291,50,Female,Hà Nội,New,Elegant,3
+CUST-94521,66,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-58823,50,Female,Đà Lạt,Gold,Classic,10
+CUST-42811,40,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-24405,67,Female,Huế,Silver,Classic,7
+CUST-22920,57,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-93944,51,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-83474,49,Female,Hà Nội,New,Formal,2
+CUST-52451,60,Female,Hải Phòng,New,Formal,1
+CUST-17874,47,Female,Hà Nội,New,Elegant,0
+CUST-93864,61,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-26073,56,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-21067,53,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-41681,53,Female,Đà Nẵng,Gold,Classic,18
+CUST-21604,50,Female,Hà Nội,Gold,Formal,15
+CUST-41828,60,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-48274,45,Female,Vũng Tàu,New,Casual,0
+CUST-82703,40,Female,Hà Nội,New,Casual,1
+CUST-57259,56,Female,TP. Hồ Chí Minh,Silver,Casual,2
+CUST-44639,57,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-56659,55,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-49774,55,Female,Hải Phòng,Silver,Elegant,2
+CUST-53213,49,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-34858,58,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-55597,51,Female,Hải Phòng,Silver,Casual,10
+CUST-38927,48,Male,TP. Hồ Chí Minh,New,Casual,3
+CUST-78474,49,Female,Biên Hòa,Silver,Elegant,5
+CUST-10271,68,Female,Vũng Tàu,Silver,Classic,6
+CUST-88221,40,Female,Hà Nội,Silver,Casual,5
+CUST-16546,55,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-92806,40,Female,Hà Nội,Silver,Elegant,9
+CUST-13219,51,Male,Hà Nội,New,Sporty,0
+CUST-24205,48,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-36088,40,Female,Đà Nẵng,New,Classic,3
+CUST-31565,55,Female,TP. Hồ Chí Minh,Gold,Elegant,10
+CUST-39343,48,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-98986,40,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-73424,58,Female,Vũng Tàu,New,Casual,1
+CUST-56766,63,Female,Biên Hòa,New,Classic,2
+CUST-57121,63,Female,Hà Nội,Silver,Elegant,5
+CUST-39894,54,Female,Hải Phòng,Silver,Classic,2
+CUST-75818,52,Female,TP. Hồ Chí Minh,Silver,Elegant,9
+CUST-87051,62,Male,Hải Phòng,Gold,Formal,12
+CUST-60598,65,Female,Đà Nẵng,New,Elegant,2
+CUST-85005,61,Female,Đà Lạt,Silver,Elegant,10
+CUST-21814,44,Female,Hà Nội,New,Classic,3
+CUST-72576,53,Male,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-87445,55,Female,Vũng Tàu,New,Classic,0
+CUST-31609,40,Female,Hà Nội,Silver,Classic,3
+CUST-26320,55,Female,Hà Nội,New,Sporty,1
+CUST-49637,70,Male,Cần Thơ,New,Elegant,0
+CUST-15416,57,Female,Nha Trang,New,Classic,0
+CUST-46440,63,Female,Hải Phòng,Gold,Casual,14
+CUST-67334,53,Female,Nha Trang,Silver,Elegant,8
+CUST-25815,51,Female,Hải Phòng,New,Casual,2
+CUST-64429,55,Male,Hà Nội,New,Formal,2
+CUST-84588,45,Female,Đà Nẵng,New,Casual,1
+CUST-25670,44,Female,Nha Trang,Gold,Formal,9
+CUST-33310,62,Female,Huế,Gold,Casual,10
+CUST-43916,62,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-18846,44,Female,Hà Nội,Silver,Formal,4
+CUST-74040,59,Female,Nha Trang,New,Elegant,0
+CUST-88968,51,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-30524,54,Female,Hà Nội,Silver,Casual,4
+CUST-20632,55,Male,Nha Trang,Silver,Formal,7
+CUST-45997,59,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-92974,52,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-63172,63,Female,Hà Nội,New,Casual,3
+CUST-28226,54,Male,Hà Nội,New,Elegant,2
+CUST-13803,56,Female,Nha Trang,New,Casual,2
+CUST-78067,45,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-12658,69,Female,Hà Nội,Silver,Elegant,4
+CUST-76981,55,Male,TP. Hồ Chí Minh,Silver,Formal,10
+CUST-19782,57,Male,Hà Nội,Silver,Classic,5
+CUST-45681,40,Female,Hà Nội,Silver,Classic,5
+CUST-83610,45,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-42720,61,Female,Đà Nẵng,Silver,Casual,7
+CUST-84732,54,Female,Hà Nội,New,Casual,2
+CUST-36091,40,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-75206,60,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-74794,47,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-56188,63,Male,Hà Nội,Silver,Classic,2
+CUST-61495,51,Female,Hà Nội,New,Classic,2
+CUST-43053,53,Female,Hà Nội,New,Classic,0
+CUST-85092,61,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-19402,44,Female,Cần Thơ,Silver,Elegant,5
+CUST-98304,44,Female,Hà Nội,New,Casual,2
+CUST-50048,50,Male,Nha Trang,New,Formal,2
+CUST-32323,58,Female,Cần Thơ,New,Elegant,1
+CUST-17211,41,Female,Hà Nội,Silver,Casual,3
+CUST-24572,40,Female,Hà Nội,Gold,Elegant,14
+CUST-55926,58,Female,Hà Nội,New,Classic,2
+CUST-57810,47,Male,Hà Nội,Silver,Casual,3
+CUST-45486,48,Female,Đà Nẵng,Silver,Elegant,4
+CUST-64369,40,Female,Hà Nội,Gold,Classic,14
+CUST-99682,46,Female,Nha Trang,New,Formal,0
+CUST-84562,51,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-81979,59,Female,Cần Thơ,Silver,Casual,2
+CUST-18549,45,Male,Cần Thơ,New,Casual,3
+CUST-47481,65,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-58743,46,Male,Biên Hòa,New,Casual,0
+CUST-29603,46,Female,Vũng Tàu,New,Classic,2
+CUST-36842,64,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-92986,53,Male,Hà Nội,Silver,Sporty,9
+CUST-22148,47,Female,TP. Hồ Chí Minh,New,Classic,5
+CUST-46158,50,Female,TP. Hồ Chí Minh,Gold,Casual,14
+CUST-16332,62,Male,Đà Nẵng,New,Elegant,0
+CUST-61895,63,Female,TP. Hồ Chí Minh,Gold,Elegant,7
+CUST-94024,45,Male,TP. Hồ Chí Minh,New,Casual,1
+CUST-41286,51,Female,Cần Thơ,Silver,Casual,6
+CUST-96615,52,Male,TP. Hồ Chí Minh,Gold,Elegant,17
+CUST-64133,44,Female,Đà Nẵng,Silver,Casual,3
+CUST-96811,51,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-19277,52,Male,Nha Trang,New,Classic,4
+CUST-89501,61,Female,Hải Phòng,Silver,Casual,7
+CUST-78130,61,Female,Hà Nội,Silver,Casual,5
+CUST-87304,49,Female,Hải Phòng,New,Classic,3
+CUST-36596,50,Female,Hà Nội,Gold,Casual,12
+CUST-77438,57,Male,Cần Thơ,New,Classic,3
+CUST-37572,47,Female,Đà Nẵng,New,Formal,2
+CUST-35993,56,Female,TP. Hồ Chí Minh,Gold,Formal,17
+CUST-21940,51,Female,Hải Phòng,New,Classic,2
+CUST-32260,44,Male,Huế,New,Classic,2
+CUST-30637,44,Male,Nha Trang,New,Sporty,2
+CUST-19761,63,Male,Đà Nẵng,Silver,Formal,7
+CUST-87921,50,Female,Cần Thơ,Gold,Elegant,16
+CUST-53696,65,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-69392,47,Female,Nha Trang,Silver,Classic,7
+CUST-67544,54,Female,Nha Trang,Silver,Formal,4
+CUST-31584,71,Female,Hà Nội,Silver,Formal,5
+CUST-94603,43,Female,TP. Hồ Chí Minh,Silver,Formal,6
+CUST-17923,40,Female,TP. Hồ Chí Minh,Gold,Elegant,17
+CUST-52463,62,Female,Hà Nội,New,Formal,0
+CUST-10756,45,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-13983,51,Female,Hà Nội,Silver,Classic,5
+CUST-21286,47,Female,Đà Nẵng,New,Classic,0
+CUST-32881,54,Male,Hà Nội,New,Classic,1
+CUST-50103,44,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-51313,50,Male,Hải Phòng,New,Elegant,1
+CUST-15031,55,Female,TP. Hồ Chí Minh,Gold,Elegant,19
+CUST-56041,43,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-52236,46,Female,Nha Trang,Silver,Elegant,8
+CUST-26384,49,Female,Vũng Tàu,Silver,Classic,6
+CUST-96054,40,Female,Đà Nẵng,New,Elegant,0
+CUST-27824,48,Female,Hà Nội,New,Classic,1
+CUST-52166,52,Female,Hà Nội,New,Elegant,2
+CUST-34531,48,Male,Biên Hòa,Silver,Casual,3
+CUST-40327,49,Female,Hải Phòng,New,Classic,2
+CUST-87714,51,Female,Cần Thơ,Silver,Elegant,4
+CUST-61532,46,Female,Hải Phòng,New,Formal,1
+CUST-76466,57,Female,Hà Nội,New,Elegant,4
+CUST-51713,63,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-18726,48,Female,Nha Trang,New,Elegant,2
+CUST-27483,55,Female,Huế,New,Formal,3
+CUST-31488,50,Female,TP. Hồ Chí Minh,Gold,Elegant,20
+CUST-74155,54,Male,Đà Nẵng,New,Classic,4
+CUST-94237,64,Male,Hà Nội,Silver,Casual,2
+CUST-12089,56,Female,Biên Hòa,Silver,Classic,2
+CUST-39948,40,Male,TP. Hồ Chí Minh,Silver,Formal,6
+CUST-14125,55,Female,Cần Thơ,Silver,Elegant,6
+CUST-70392,61,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-37154,50,Male,Đà Nẵng,Silver,Formal,7
+CUST-24368,59,Female,Hải Phòng,New,Formal,1
+CUST-39312,46,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-21566,40,Female,Nha Trang,New,Classic,2
+CUST-77837,53,Female,Đà Lạt,Silver,Casual,6
+CUST-44770,40,Female,Huế,Silver,Casual,7
+CUST-41998,50,Female,TP. Hồ Chí Minh,Silver,Formal,4
+CUST-43280,62,Female,Cần Thơ,New,Formal,3
+CUST-39824,40,Female,Đà Nẵng,Silver,Classic,4
+CUST-27358,41,Female,Đà Nẵng,Silver,Casual,2
+CUST-15971,43,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-51260,51,Male,Đà Nẵng,New,Elegant,3
+CUST-54494,49,Female,Hà Nội,New,Formal,1
+CUST-92532,63,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-60804,59,Female,Hà Nội,Silver,Elegant,2
+CUST-63098,55,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-10899,53,Female,Hà Nội,Silver,Elegant,5
+CUST-46101,55,Female,Hà Nội,Silver,Elegant,5
+CUST-43943,45,Female,Nha Trang,Silver,Casual,7
+CUST-61266,58,Female,Đà Nẵng,Silver,Casual,5
+CUST-60420,43,Female,Hà Nội,Silver,Classic,5
+CUST-63716,58,Female,Nha Trang,Silver,Elegant,6
+CUST-40716,61,Female,Đà Lạt,New,Classic,3
+CUST-38161,53,Female,Đà Lạt,Silver,Elegant,4
+CUST-65299,50,Female,Nha Trang,Gold,Formal,18
+CUST-44824,55,Female,Vũng Tàu,New,Elegant,2
+CUST-65484,40,Female,Đà Nẵng,Gold,Formal,17
+CUST-88326,54,Female,Biên Hòa,Gold,Elegant,17
+CUST-92183,51,Female,Biên Hòa,New,Elegant,1
+CUST-73479,51,Female,TP. Hồ Chí Minh,Silver,Classic,2
+CUST-81040,57,Female,Huế,Silver,Casual,4
+CUST-43283,51,Female,Nha Trang,New,Sporty,1
+CUST-97195,42,Female,Nha Trang,New,Classic,0
+CUST-96420,50,Female,Đà Lạt,New,Classic,1
+CUST-28564,52,Female,TP. Hồ Chí Minh,Silver,Elegant,9
+CUST-12042,52,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-50228,53,Female,Hải Phòng,Silver,Classic,9
+CUST-75628,60,Female,Cần Thơ,Silver,Formal,7
+CUST-48041,43,Female,Huế,Silver,Classic,10
+CUST-28040,53,Female,Huế,New,Casual,3
+CUST-10286,62,Female,Cần Thơ,New,Formal,2
+CUST-18814,40,Female,Biên Hòa,New,Elegant,0
+CUST-54385,53,Female,Hà Nội,New,Classic,3
+CUST-80443,47,Female,Biên Hòa,New,Formal,0
+CUST-86013,49,Female,Hà Nội,New,Classic,2
+CUST-86400,44,Female,Đà Nẵng,New,Classic,0
+CUST-71741,50,Female,Hà Nội,Silver,Formal,7
+CUST-89791,66,Female,Đà Nẵng,New,Elegant,3
+CUST-78733,41,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-19234,42,Female,Hà Nội,Gold,Classic,13
+CUST-49226,41,Male,Hải Phòng,Silver,Casual,7
+CUST-60309,65,Female,Cần Thơ,Gold,Classic,12
+CUST-93837,48,Female,Hà Nội,Silver,Classic,6
+CUST-79115,51,Female,Hải Phòng,New,Elegant,0
+CUST-57133,48,Female,Hà Nội,Gold,Elegant,13
+CUST-74541,44,Female,Hà Nội,Gold,Classic,7
+CUST-67625,50,Female,Hà Nội,Silver,Classic,5
+CUST-75477,71,Female,Đà Nẵng,Silver,Casual,1
+CUST-17836,63,Female,Nha Trang,New,Elegant,2
+CUST-55642,45,Male,Đà Nẵng,New,Elegant,4
+CUST-46460,57,Male,Nha Trang,Silver,Elegant,10
+CUST-43463,45,Female,Đà Nẵng,Silver,Classic,4
+CUST-67020,40,Female,Nha Trang,New,Elegant,2
+CUST-87545,60,Female,Vũng Tàu,New,Elegant,1
+CUST-66893,61,Male,TP. Hồ Chí Minh,New,Casual,2
+CUST-74757,60,Male,Hà Nội,New,Casual,1
+CUST-87692,48,Female,Hà Nội,New,Casual,0
+CUST-51477,50,Female,Đà Nẵng,Gold,Elegant,15
+CUST-40251,57,Female,Đà Nẵng,New,Formal,3
+CUST-28730,55,Female,Hà Nội,New,Casual,3
+CUST-31522,48,Female,Đà Lạt,New,Casual,0
+CUST-90573,40,Female,Biên Hòa,Silver,Elegant,8
+CUST-96838,52,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-85843,60,Female,Hà Nội,Silver,Classic,7
+CUST-91223,42,Female,Hà Nội,Gold,Elegant,15
+CUST-27618,57,Female,TP. Hồ Chí Minh,Gold,Casual,17
+CUST-70216,54,Female,Huế,Silver,Classic,5
+CUST-25756,58,Female,Đà Nẵng,Silver,Elegant,6
+CUST-33433,58,Female,Hà Nội,New,Elegant,3
+CUST-94904,46,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-41757,40,Female,Hà Nội,New,Classic,2
+CUST-23190,47,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-51396,59,Female,TP. Hồ Chí Minh,New,Classic,4
+CUST-70274,47,Female,Hải Phòng,New,Elegant,3
+CUST-24130,46,Female,Đà Nẵng,New,Classic,3
+CUST-44881,40,Female,Huế,Silver,Formal,10
+CUST-68054,66,Female,Hà Nội,Silver,Formal,4
+CUST-88563,58,Female,Nha Trang,New,Classic,0
+CUST-78193,58,Female,Hà Nội,Silver,Classic,3
+CUST-18307,59,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-92965,56,Female,Huế,Silver,Formal,3
+CUST-46027,50,Female,Hải Phòng,New,Classic,1
+CUST-47798,50,Female,Hà Nội,New,Elegant,0
+CUST-55943,48,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-41654,73,Female,Cần Thơ,Silver,Elegant,5
+CUST-80302,56,Female,Biên Hòa,Silver,Casual,9
+CUST-13106,48,Female,Hải Phòng,Silver,Elegant,6
+CUST-11101,55,Male,Hà Nội,Gold,Elegant,13
+CUST-93251,43,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-55447,64,Female,Hà Nội,New,Casual,1
+CUST-91628,46,Female,Hà Nội,Gold,Classic,14
+CUST-47030,56,Female,Đà Nẵng,New,Formal,1
+CUST-23229,60,Female,Nha Trang,Silver,Formal,7
+CUST-96859,55,Female,Hà Nội,New,Classic,2
+CUST-73383,52,Male,Nha Trang,New,Sporty,2
+CUST-76988,52,Female,Cần Thơ,New,Classic,2
+CUST-33642,51,Female,Cần Thơ,Silver,Elegant,2
+CUST-60076,47,Female,TP. Hồ Chí Minh,Silver,Formal,3
+CUST-77404,48,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-98401,63,Female,Hà Nội,New,Formal,1
+CUST-57049,51,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-69855,45,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-76396,47,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-44994,60,Female,Hà Nội,Gold,Casual,9
+CUST-56398,57,Female,Hà Nội,New,Formal,2
+CUST-58897,56,Female,Đà Lạt,New,Classic,0
+CUST-26364,49,Female,Nha Trang,New,Elegant,0
+CUST-63954,56,Female,TP. Hồ Chí Minh,New,Classic,4
+CUST-64742,46,Female,Biên Hòa,New,Classic,2
+CUST-32408,49,Male,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-84120,59,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-87201,58,Female,Nha Trang,Silver,Elegant,7
+CUST-84861,44,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-30432,45,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-23804,52,Male,TP. Hồ Chí Minh,Gold,Elegant,13
+CUST-62628,65,Female,TP. Hồ Chí Minh,Gold,Classic,9
+CUST-14586,40,Female,Hải Phòng,Gold,Casual,8
+CUST-11604,54,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-26765,40,Female,TP. Hồ Chí Minh,Gold,Elegant,18
+CUST-83882,46,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-96293,49,Female,Đà Nẵng,Silver,Casual,7
+CUST-68632,48,Female,Hà Nội,Silver,Elegant,5
+CUST-40349,47,Male,Huế,Gold,Formal,11
+CUST-36042,52,Female,Cần Thơ,New,Classic,1
+CUST-21665,47,Female,TP. Hồ Chí Minh,Silver,Classic,8
+CUST-62533,40,Female,Cần Thơ,Silver,Casual,6
+CUST-49511,58,Female,Hà Nội,Silver,Classic,3
+CUST-14463,58,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-73760,58,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-34138,40,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-26112,54,Female,Cần Thơ,New,Classic,3
+CUST-64942,57,Female,Biên Hòa,Silver,Formal,10
+CUST-24615,43,Male,TP. Hồ Chí Minh,Silver,Classic,9
+CUST-57380,52,Female,TP. Hồ Chí Minh,Silver,Classic,8
+CUST-46675,51,Male,Đà Nẵng,Silver,Elegant,2
+CUST-87795,66,Female,TP. Hồ Chí Minh,Silver,Elegant,0
+CUST-18050,67,Female,Hà Nội,New,Formal,2
+CUST-89292,40,Female,Biên Hòa,Silver,Elegant,7
+CUST-60608,71,Female,Nha Trang,Gold,Formal,14
+CUST-21215,44,Female,Biên Hòa,Silver,Elegant,6
+CUST-44303,59,Female,Hà Nội,Gold,Classic,12
+CUST-61665,59,Female,Hà Nội,Gold,Elegant,9
+CUST-61062,44,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-97762,55,Female,Biên Hòa,Silver,Elegant,4
+CUST-58903,51,Female,Hà Nội,Silver,Classic,7
+CUST-11465,56,Female,Hà Nội,New,Formal,0
+CUST-91675,53,Female,Hà Nội,New,Casual,1
+CUST-10354,61,Female,Cần Thơ,New,Elegant,1
+CUST-33419,52,Female,Nha Trang,New,Casual,0
+CUST-97653,50,Female,Hải Phòng,Silver,Classic,1
+CUST-20725,60,Female,Hà Nội,New,Elegant,2
+CUST-54835,56,Female,Cần Thơ,New,Classic,2
+CUST-80208,57,Female,TP. Hồ Chí Minh,Silver,Formal,12
+CUST-25285,46,Female,Hà Nội,New,Classic,0
+CUST-15323,43,Female,TP. Hồ Chí Minh,Gold,Casual,11
+CUST-71259,47,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-69239,47,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-22703,58,Female,Biên Hòa,Gold,Classic,10
+CUST-78626,59,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-21139,50,Female,TP. Hồ Chí Minh,Silver,Classic,8
+CUST-30885,63,Female,Hải Phòng,Silver,Elegant,9
+CUST-62489,62,Female,Hải Phòng,New,Classic,0
+CUST-23076,53,Female,Hà Nội,Silver,Formal,7
+CUST-88672,45,Female,Đà Nẵng,New,Elegant,2
+CUST-20976,64,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-38035,51,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-83011,53,Female,Cần Thơ,Silver,Elegant,5
+CUST-75289,49,Female,Đà Nẵng,New,Sporty,1
+CUST-36652,44,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-72595,40,Female,Hà Nội,New,Casual,1
+CUST-84719,57,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-74107,45,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-68271,75,Female,Đà Lạt,Silver,Casual,4
+CUST-24629,43,Female,Đà Nẵng,New,Sporty,1
+CUST-99333,41,Female,Huế,Silver,Casual,5
+CUST-11682,56,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-43889,64,Female,Nha Trang,Gold,Classic,9
+CUST-40631,52,Male,Hà Nội,New,Formal,2
+CUST-75059,56,Male,TP. Hồ Chí Minh,New,Elegant,1
+CUST-12637,40,Female,Hà Nội,New,Casual,0
+CUST-86199,46,Female,Hà Nội,New,Classic,3
+CUST-16905,43,Female,Đà Lạt,New,Classic,1
+CUST-82788,40,Female,Cần Thơ,New,Formal,2
+CUST-38083,52,Female,Hải Phòng,Gold,Casual,9
+CUST-66206,40,Female,Đà Nẵng,Silver,Elegant,6
+CUST-46606,41,Female,Đà Nẵng,New,Casual,0
+CUST-55570,47,Female,Hải Phòng,New,Formal,1
+CUST-29129,45,Female,Nha Trang,New,Casual,1
+CUST-36211,55,Female,Đà Nẵng,New,Formal,1
+CUST-63116,54,Female,Cần Thơ,New,Formal,1
+CUST-19988,59,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-80668,58,Female,Vũng Tàu,New,Classic,2
+CUST-58471,61,Male,Hà Nội,Gold,Classic,8
+CUST-38154,51,Female,TP. Hồ Chí Minh,Silver,Formal,5
+CUST-23129,54,Female,Đà Lạt,Gold,Formal,10
+CUST-81904,56,Female,Hà Nội,New,Elegant,0
+CUST-74917,53,Male,Hà Nội,Gold,Elegant,14
+CUST-41969,48,Male,TP. Hồ Chí Minh,New,Classic,0
+CUST-17025,49,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-97072,45,Female,Biên Hòa,Silver,Formal,3
+CUST-90421,55,Female,Huế,New,Casual,1
+CUST-63362,51,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-95626,46,Male,Vũng Tàu,Silver,Classic,3
+CUST-50189,46,Female,Hải Phòng,Silver,Formal,9
+CUST-59252,42,Female,Huế,Silver,Classic,3
+CUST-91254,59,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-31974,52,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-32486,45,Female,Hà Nội,Gold,Formal,16
+CUST-35747,58,Female,Hà Nội,New,Classic,1
+CUST-85659,47,Female,Cần Thơ,New,Elegant,3
+CUST-98015,40,Female,Hà Nội,New,Classic,2
+CUST-78360,60,Male,Đà Nẵng,Gold,Sporty,14
+CUST-89307,47,Female,Hải Phòng,Silver,Classic,6
+CUST-24393,48,Male,Hà Nội,New,Classic,1
+CUST-50492,52,Female,TP. Hồ Chí Minh,Gold,Elegant,12
+CUST-64758,61,Female,Hải Phòng,New,Classic,3
+CUST-57164,52,Female,Đà Lạt,Gold,Formal,13
+CUST-85478,42,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-34824,56,Female,Vũng Tàu,New,Classic,4
+CUST-10419,48,Female,Huế,New,Formal,1
+CUST-53693,67,Female,Hải Phòng,Gold,Classic,10
+CUST-85134,51,Female,TP. Hồ Chí Minh,Gold,Formal,14
+CUST-70808,40,Female,Cần Thơ,Silver,Elegant,4
+CUST-62205,54,Male,Nha Trang,New,Classic,3
+CUST-30407,67,Male,TP. Hồ Chí Minh,New,Formal,5
+CUST-60350,64,Male,Vũng Tàu,New,Formal,2
+CUST-17860,66,Female,Đà Lạt,New,Casual,1
+CUST-31374,43,Male,TP. Hồ Chí Minh,New,Casual,0
+CUST-52062,59,Female,Cần Thơ,Silver,Formal,8
+CUST-64858,46,Male,Đà Nẵng,Silver,Casual,4
+CUST-72476,53,Female,Cần Thơ,Gold,Elegant,21
+CUST-19786,41,Female,Nha Trang,New,Classic,0
+CUST-99642,46,Male,Hà Nội,New,Casual,2
+CUST-12767,46,Female,Hà Nội,Silver,Casual,5
+CUST-82236,59,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-26660,58,Female,Đà Lạt,Silver,Classic,8
+CUST-92530,54,Female,TP. Hồ Chí Minh,Silver,Elegant,2
+CUST-10819,41,Female,Đà Lạt,New,Elegant,3
+CUST-17946,49,Male,TP. Hồ Chí Minh,New,Formal,1
+CUST-91288,46,Male,TP. Hồ Chí Minh,Gold,Elegant,10
+CUST-11819,58,Male,Đà Lạt,Silver,Formal,7
+CUST-22227,61,Female,Đà Nẵng,Silver,Elegant,3
+CUST-38224,60,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-14191,45,Female,Hà Nội,Silver,Formal,0
+CUST-63403,40,Female,Hà Nội,New,Classic,1
+CUST-23311,40,Female,Hà Nội,Silver,Formal,4
+CUST-26930,63,Female,TP. Hồ Chí Minh,Gold,Elegant,11
+CUST-72957,48,Male,Đà Nẵng,New,Classic,3
+CUST-86443,45,Female,TP. Hồ Chí Minh,New,Casual,3
+CUST-50768,65,Female,Hà Nội,Silver,Formal,1
+CUST-53777,62,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-14297,52,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-52704,49,Female,Vũng Tàu,Silver,Casual,3
+CUST-92324,50,Female,TP. Hồ Chí Minh,Silver,Sporty,4
+CUST-31844,53,Female,Hà Nội,Silver,Formal,1
+CUST-39265,64,Female,Đà Nẵng,New,Formal,2
+CUST-75829,55,Female,Đà Lạt,New,Classic,0
+CUST-30197,57,Female,Nha Trang,New,Classic,3
+CUST-39498,61,Female,Huế,Gold,Formal,14
+CUST-70461,42,Female,Biên Hòa,Silver,Formal,4
+CUST-86391,58,Female,Hải Phòng,New,Formal,1
+CUST-52464,49,Female,Vũng Tàu,Gold,Formal,10
+CUST-90897,40,Female,Hà Nội,New,Formal,0
+CUST-31458,40,Male,Huế,Silver,Elegant,5
+CUST-62872,43,Female,Huế,New,Elegant,1
+CUST-38539,56,Female,Đà Lạt,Silver,Sporty,2
+CUST-30267,52,Female,TP. Hồ Chí Minh,Silver,Classic,2
+CUST-33040,53,Female,Nha Trang,Silver,Elegant,8
+CUST-56881,67,Female,Hà Nội,New,Classic,1
+CUST-84446,41,Male,Đà Nẵng,New,Casual,2
+CUST-51350,51,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-79082,54,Female,Đà Nẵng,Gold,Formal,18
+CUST-58779,46,Female,Hải Phòng,New,Elegant,0
+CUST-48174,52,Female,TP. Hồ Chí Minh,Silver,Classic,10
+CUST-46298,40,Male,Hà Nội,Silver,Elegant,1
+CUST-39480,63,Female,TP. Hồ Chí Minh,New,Formal,4
+CUST-12588,46,Female,Hải Phòng,New,Elegant,2
+CUST-53324,68,Female,Hải Phòng,New,Casual,1
+CUST-34325,51,Female,Cần Thơ,Silver,Classic,3
+CUST-54977,60,Female,Hà Nội,Gold,Casual,12
+CUST-19833,51,Female,Nha Trang,New,Classic,0
+CUST-10109,51,Female,Hải Phòng,Gold,Casual,20
+CUST-24389,47,Female,Hà Nội,New,Casual,2
+CUST-86366,52,Male,TP. Hồ Chí Minh,New,Elegant,1
+CUST-46714,54,Female,TP. Hồ Chí Minh,Gold,Classic,10
+CUST-19920,45,Female,TP. Hồ Chí Minh,Gold,Classic,12
+CUST-35669,50,Female,Hà Nội,New,Classic,2
+CUST-10147,47,Female,Hà Nội,Silver,Casual,3
+CUST-23409,70,Female,Hà Nội,Gold,Classic,14
+CUST-46878,51,Female,Hà Nội,Silver,Formal,7
+CUST-30408,64,Female,TP. Hồ Chí Minh,Silver,Elegant,8
+CUST-44888,50,Female,Nha Trang,New,Casual,1
+CUST-53421,54,Female,Đà Nẵng,New,Elegant,5
+CUST-36740,41,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-96501,48,Female,Hải Phòng,Silver,Classic,3
+CUST-28326,53,Female,Đà Nẵng,New,Casual,1
+CUST-49773,64,Female,Hà Nội,New,Elegant,1
+CUST-71809,53,Female,TP. Hồ Chí Minh,New,Casual,5
+CUST-89480,63,Male,TP. Hồ Chí Minh,New,Classic,1
+CUST-15358,57,Female,Đà Nẵng,New,Sporty,3
+CUST-78834,65,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-44040,51,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-66268,71,Female,Đà Nẵng,Gold,Formal,11
+CUST-19880,48,Female,Vũng Tàu,Silver,Elegant,3
+CUST-85430,45,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-14511,42,Female,Đà Nẵng,New,Classic,1
+CUST-14206,70,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-37674,58,Female,Cần Thơ,Silver,Elegant,6
+CUST-79959,49,Female,Cần Thơ,Silver,Classic,5
+CUST-55694,61,Male,Cần Thơ,Silver,Casual,6
+CUST-33361,57,Male,Hà Nội,Silver,Classic,8
+CUST-50297,67,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-97179,40,Female,Nha Trang,New,Classic,1
+CUST-15802,49,Female,TP. Hồ Chí Minh,New,Formal,3
+CUST-60660,48,Female,Vũng Tàu,New,Elegant,2
+CUST-31788,40,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-14537,60,Female,TP. Hồ Chí Minh,Silver,Sporty,3
+CUST-13637,49,Male,TP. Hồ Chí Minh,New,Formal,5
+CUST-36002,57,Female,TP. Hồ Chí Minh,Silver,Elegant,8
+CUST-19120,70,Female,Huế,New,Classic,0
+CUST-75461,49,Female,Hà Nội,New,Elegant,1
+CUST-94989,48,Female,Đà Nẵng,Silver,Formal,7
+CUST-93064,52,Male,Đà Nẵng,New,Classic,1
+CUST-13174,59,Female,Huế,New,Classic,1
+CUST-22368,47,Female,Đà Nẵng,New,Elegant,1
+CUST-48342,46,Female,Biên Hòa,Silver,Classic,3
+CUST-92770,60,Female,Huế,New,Elegant,3
+CUST-55406,55,Female,TP. Hồ Chí Minh,Gold,Casual,19
+CUST-79035,40,Female,Huế,Gold,Classic,4
+CUST-94605,42,Female,Biên Hòa,Silver,Classic,3
+CUST-38246,64,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-99065,55,Female,Đà Nẵng,Silver,Elegant,8
+CUST-47829,45,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-19024,50,Female,Hải Phòng,Gold,Classic,9
+CUST-38292,52,Female,Hà Nội,Silver,Casual,3
+CUST-59789,57,Female,Cần Thơ,New,Elegant,4
+CUST-25162,41,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-26400,45,Female,Đà Nẵng,Silver,Classic,4
+CUST-51651,54,Female,Hà Nội,Gold,Classic,17
+CUST-79756,51,Female,Hải Phòng,Silver,Classic,9
+CUST-33649,56,Male,TP. Hồ Chí Minh,New,Elegant,1
+CUST-89941,42,Female,Hải Phòng,Silver,Elegant,5
+CUST-69484,54,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-82155,60,Female,Hà Nội,Silver,Classic,3
+CUST-32645,55,Female,TP. Hồ Chí Minh,New,Classic,3
+CUST-69753,53,Female,Biên Hòa,Silver,Sporty,7
+CUST-62173,51,Female,TP. Hồ Chí Minh,Gold,Elegant,11
+CUST-98108,45,Female,Hải Phòng,New,Classic,4
+CUST-94144,51,Female,Hà Nội,New,Classic,1
+CUST-52186,62,Female,Cần Thơ,New,Elegant,1
+CUST-86265,51,Female,TP. Hồ Chí Minh,New,Sporty,4
+CUST-48833,44,Female,TP. Hồ Chí Minh,Silver,Sporty,3
+CUST-66242,48,Male,TP. Hồ Chí Minh,New,Classic,1
+CUST-79434,53,Female,Hà Nội,Silver,Sporty,5
+CUST-61823,49,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-80157,55,Female,TP. Hồ Chí Minh,Gold,Sporty,18
+CUST-32200,56,Female,Đà Nẵng,Silver,Formal,5
+CUST-59741,59,Female,Vũng Tàu,Silver,Elegant,5
+CUST-15370,63,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-35092,59,Female,Đà Lạt,New,Casual,0
+CUST-10135,44,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-87457,44,Female,Hà Nội,Silver,Classic,6
+CUST-40743,51,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-23771,48,Male,TP. Hồ Chí Minh,Gold,Elegant,16
+CUST-25715,42,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-38571,48,Female,Huế,Silver,Elegant,2
+CUST-36552,48,Female,Hải Phòng,New,Casual,2
+CUST-31385,46,Female,Đà Nẵng,Silver,Classic,1
+CUST-85717,49,Male,TP. Hồ Chí Minh,New,Classic,1
+CUST-36525,61,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-12215,53,Female,Đà Nẵng,New,Elegant,1
+CUST-67896,71,Female,Hà Nội,Gold,Casual,14
+CUST-64924,53,Female,Hà Nội,New,Elegant,1
+CUST-62342,49,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-29105,52,Male,Hà Nội,Silver,Classic,8
+CUST-75773,54,Female,Hải Phòng,Silver,Casual,7
+CUST-97188,55,Female,Hà Nội,New,Classic,1
+CUST-56921,68,Female,Hà Nội,Silver,Formal,5
+CUST-37115,45,Female,Đà Lạt,Gold,Elegant,19
+CUST-90552,58,Male,Vũng Tàu,New,Formal,2
+CUST-88941,53,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-38829,40,Female,TP. Hồ Chí Minh,Gold,Elegant,11
+CUST-59664,58,Female,Nha Trang,New,Classic,1
+CUST-30832,62,Female,Hà Nội,New,Elegant,3
+CUST-44233,45,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-89488,51,Female,Hà Nội,Silver,Formal,9
+CUST-40724,40,Female,TP. Hồ Chí Minh,Gold,Casual,17
+CUST-35215,41,Female,Vũng Tàu,Silver,Casual,2
+CUST-96891,60,Female,Cần Thơ,Silver,Sporty,7
+CUST-57930,48,Female,Vũng Tàu,New,Classic,1
+CUST-54586,43,Female,Cần Thơ,New,Elegant,1
+CUST-76640,53,Female,Đà Nẵng,New,Formal,1
+CUST-95284,47,Female,Cần Thơ,New,Elegant,2
+CUST-95008,48,Female,Hải Phòng,New,Elegant,2
+CUST-88645,57,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-47256,42,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-49856,44,Female,Đà Nẵng,New,Classic,1
+CUST-40425,53,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-88057,59,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-66239,61,Female,Hà Nội,New,Casual,2
+CUST-95364,46,Female,Đà Nẵng,New,Formal,1
+CUST-50175,59,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-36750,45,Female,TP. Hồ Chí Minh,Silver,Elegant,8
+CUST-11566,66,Male,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-59175,42,Female,Hà Nội,Gold,Elegant,11
+CUST-27902,62,Female,Biên Hòa,Silver,Classic,8
+CUST-41099,46,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-15953,68,Female,TP. Hồ Chí Minh,Gold,Casual,11
+CUST-17305,56,Female,Hà Nội,Silver,Elegant,6
+CUST-42387,43,Female,Huế,Silver,Casual,0
+CUST-19131,47,Female,Hải Phòng,New,Casual,1
+CUST-21910,58,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-40499,60,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-54048,51,Female,Cần Thơ,New,Casual,3
+CUST-29456,52,Female,Biên Hòa,Silver,Casual,3
+CUST-91137,58,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-53951,53,Female,Hà Nội,Silver,Casual,5
+CUST-44782,41,Female,Hà Nội,Gold,Casual,19
+CUST-15344,45,Female,Hà Nội,New,Elegant,3
+CUST-62765,53,Female,Cần Thơ,New,Classic,3
+CUST-75131,61,Female,Vũng Tàu,New,Classic,2
+CUST-72134,64,Female,Vũng Tàu,New,Casual,1
+CUST-85858,58,Female,Nha Trang,Gold,Elegant,12
+CUST-98439,54,Female,Hà Nội,Silver,Classic,3
+CUST-26551,57,Female,Vũng Tàu,Silver,Elegant,5
+CUST-60965,46,Female,TP. Hồ Chí Minh,Silver,Casual,2
+CUST-20580,50,Female,TP. Hồ Chí Minh,Silver,Casual,10
+CUST-22130,45,Female,Hải Phòng,Silver,Classic,5
+CUST-57358,42,Female,Hà Nội,New,Classic,0
+CUST-46168,54,Female,Nha Trang,New,Classic,2
+CUST-78737,53,Female,Vũng Tàu,New,Classic,3
+CUST-36276,57,Female,Nha Trang,Silver,Casual,10
+CUST-66588,56,Female,Nha Trang,Gold,Elegant,18
+CUST-98552,53,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-57309,56,Male,Hà Nội,Silver,Casual,3
+CUST-81591,51,Female,Nha Trang,Gold,Formal,18
+CUST-47673,55,Female,Đà Nẵng,New,Elegant,1
+CUST-73631,46,Female,Đà Lạt,New,Classic,2
+CUST-49887,54,Female,Hà Nội,Gold,Elegant,12
+CUST-40318,57,Female,TP. Hồ Chí Minh,Gold,Formal,8
+CUST-69854,46,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-17520,52,Female,Hải Phòng,New,Casual,2
+CUST-70237,47,Female,Nha Trang,Gold,Casual,15
+CUST-26634,47,Female,Biên Hòa,Silver,Elegant,4
+CUST-86822,43,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-88616,62,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-58742,60,Female,Hà Nội,Silver,Elegant,6
+CUST-34370,56,Female,TP. Hồ Chí Minh,Silver,Sporty,4
+CUST-20158,67,Female,TP. Hồ Chí Minh,Gold,Formal,16
+CUST-45200,50,Female,Đà Nẵng,Silver,Sporty,3
+CUST-49815,75,Male,TP. Hồ Chí Minh,Silver,Formal,2
+CUST-62350,50,Male,TP. Hồ Chí Minh,Silver,Elegant,1
+CUST-72933,54,Female,Hải Phòng,Silver,Casual,11
+CUST-36511,48,Female,Nha Trang,New,Elegant,2
+CUST-90041,54,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-85679,58,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-79141,51,Female,Cần Thơ,Silver,Formal,4
+CUST-40866,66,Female,Nha Trang,New,Elegant,1
+CUST-56490,53,Male,Nha Trang,New,Elegant,1
+CUST-85633,54,Male,Hà Nội,Gold,Elegant,13
+CUST-46806,44,Female,Đà Nẵng,Silver,Casual,4
+CUST-31078,55,Female,Đà Lạt,New,Elegant,0
+CUST-32585,50,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-69568,47,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-64158,45,Male,Vũng Tàu,New,Classic,1
+CUST-89439,73,Female,Hà Nội,New,Sporty,1
+CUST-72071,49,Female,Cần Thơ,New,Classic,1
+CUST-45599,40,Female,Huế,New,Elegant,2
+CUST-77379,46,Female,Hà Nội,Silver,Elegant,5
+CUST-12626,51,Female,Cần Thơ,New,Elegant,0
+CUST-57065,56,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-70076,56,Female,Huế,New,Elegant,0
+CUST-33326,57,Female,Đà Lạt,New,Elegant,2
+CUST-55649,46,Female,Huế,New,Elegant,1
+CUST-94422,54,Female,Hà Nội,Gold,Classic,15
+CUST-10399,44,Female,Cần Thơ,New,Casual,1
+CUST-49363,47,Female,Biên Hòa,New,Elegant,2
+CUST-86122,44,Female,Hải Phòng,New,Casual,1
+CUST-30727,42,Female,Đà Nẵng,Silver,Casual,6
+CUST-65168,60,Female,Hà Nội,New,Formal,0
+CUST-19039,57,Female,Huế,Gold,Elegant,14
+CUST-30806,59,Female,Hà Nội,Silver,Casual,4
+CUST-90535,52,Female,TP. Hồ Chí Minh,Silver,Formal,6
+CUST-14343,58,Female,Biên Hòa,Silver,Sporty,9
+CUST-43873,40,Female,Biên Hòa,New,Formal,0
+CUST-81050,58,Female,Vũng Tàu,Gold,Elegant,18
+CUST-44904,53,Female,TP. Hồ Chí Minh,Gold,Sporty,15
+CUST-75600,57,Female,Hà Nội,New,Formal,1
+CUST-75640,55,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-86783,44,Female,Hà Nội,New,Elegant,3
+CUST-10720,40,Female,Huế,Silver,Formal,6
+CUST-78646,46,Male,Đà Nẵng,Silver,Elegant,3
+CUST-68293,56,Female,TP. Hồ Chí Minh,Gold,Casual,7
+CUST-73283,57,Male,Hà Nội,New,Classic,3
+CUST-77669,41,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-69917,44,Male,Huế,Silver,Elegant,6
+CUST-92654,46,Male,Cần Thơ,New,Casual,2
+CUST-19696,49,Male,Hà Nội,Silver,Classic,2
+CUST-42739,41,Female,Hà Nội,Silver,Formal,1
+CUST-14321,40,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-94574,45,Female,Hà Nội,Gold,Elegant,9
+CUST-43070,52,Female,Biên Hòa,New,Elegant,0
+CUST-14885,42,Female,Hải Phòng,New,Elegant,2
+CUST-13280,51,Male,Hà Nội,New,Sporty,2
+CUST-31152,60,Female,Nha Trang,New,Elegant,1
+CUST-82992,41,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-49441,50,Female,TP. Hồ Chí Minh,Gold,Formal,16
+CUST-92056,60,Female,Đà Nẵng,New,Elegant,1
+CUST-33613,48,Female,Hà Nội,Silver,Elegant,3
+CUST-81174,47,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-57956,61,Female,Huế,New,Classic,2
+CUST-59292,49,Female,Biên Hòa,Silver,Formal,7
+CUST-29694,60,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-17527,55,Female,Hải Phòng,New,Elegant,1
+CUST-67669,49,Female,TP. Hồ Chí Minh,Gold,Casual,11
+CUST-80436,55,Female,Đà Nẵng,New,Formal,2
+CUST-16569,54,Male,TP. Hồ Chí Minh,New,Classic,1
+CUST-46526,60,Female,Đà Nẵng,New,Casual,1
+CUST-31469,47,Female,Hà Nội,Silver,Classic,7
+CUST-96790,52,Female,Biên Hòa,New,Classic,3
+CUST-38867,51,Female,Đà Lạt,Silver,Casual,5
+CUST-51267,57,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-86312,43,Female,Nha Trang,New,Classic,0
+CUST-97470,60,Female,Hà Nội,Gold,Elegant,12
+CUST-87661,55,Female,Cần Thơ,New,Casual,1
+CUST-53463,41,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-95495,61,Male,Hà Nội,New,Classic,3
+CUST-78995,69,Female,Hải Phòng,New,Elegant,4
+CUST-55105,60,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-13634,63,Female,Đà Nẵng,New,Classic,2
+CUST-36431,52,Female,Đà Nẵng,Silver,Elegant,5
+CUST-20994,40,Female,Hà Nội,New,Elegant,1
+CUST-10418,40,Female,Hà Nội,New,Classic,1
+CUST-40756,54,Female,Đà Nẵng,Silver,Elegant,4
+CUST-66544,47,Female,Hải Phòng,New,Formal,3
+CUST-76573,44,Male,Hà Nội,Silver,Casual,12
+CUST-96135,51,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-75133,56,Female,Đà Nẵng,New,Classic,1
+CUST-82921,40,Female,Hải Phòng,New,Elegant,3
+CUST-35586,48,Female,Nha Trang,New,Elegant,2
+CUST-23671,64,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-97402,43,Female,Đà Nẵng,Silver,Elegant,3
+CUST-19521,58,Female,Đà Nẵng,Silver,Formal,2
+CUST-96094,48,Female,TP. Hồ Chí Minh,Silver,Classic,8
+CUST-47005,56,Male,Hà Nội,New,Elegant,2
+CUST-68068,60,Male,Hà Nội,Gold,Sporty,17
+CUST-95361,57,Male,Huế,New,Classic,0
+CUST-59103,59,Female,Hà Nội,Gold,Elegant,5
+CUST-99015,42,Female,Hải Phòng,Silver,Classic,2
+CUST-49071,60,Female,Đà Nẵng,New,Sporty,2
+CUST-81843,45,Male,TP. Hồ Chí Minh,New,Classic,0
+CUST-75025,54,Female,Huế,New,Classic,2
+CUST-55023,54,Female,Hải Phòng,Gold,Classic,11
+CUST-20130,55,Female,Hà Nội,New,Elegant,0
+CUST-16585,54,Female,Nha Trang,Gold,Elegant,17
+CUST-86959,45,Male,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-50907,41,Female,TP. Hồ Chí Minh,New,Formal,3
+CUST-79432,58,Female,Cần Thơ,Silver,Casual,4
+CUST-65348,53,Female,Hải Phòng,New,Elegant,0
+CUST-95523,61,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-99847,51,Female,Vũng Tàu,Gold,Elegant,16
+CUST-73992,40,Male,Hải Phòng,New,Classic,1
+CUST-55735,59,Female,Đà Nẵng,Gold,Casual,18
+CUST-90210,49,Female,Hà Nội,Gold,Elegant,16
+CUST-67795,54,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-77612,46,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-97444,65,Female,Hải Phòng,New,Casual,1
+CUST-52401,44,Female,TP. Hồ Chí Minh,Silver,Formal,1
+CUST-88056,49,Male,Cần Thơ,Gold,Casual,18
+CUST-65087,52,Female,TP. Hồ Chí Minh,Gold,Formal,15
+CUST-81286,43,Female,Cần Thơ,Gold,Formal,14
+CUST-97186,54,Female,Nha Trang,New,Classic,3
+CUST-73359,64,Female,Cần Thơ,Silver,Elegant,6
+CUST-66281,48,Female,Nha Trang,New,Elegant,1
+CUST-56695,55,Male,Đà Lạt,Gold,Formal,13
+CUST-72433,40,Female,Hà Nội,New,Elegant,2
+CUST-25122,51,Male,Hải Phòng,New,Sporty,1
+CUST-34690,49,Female,Biên Hòa,New,Classic,2
+CUST-46902,45,Female,Đà Nẵng,New,Casual,0
+CUST-10649,60,Female,Hà Nội,New,Classic,1
+CUST-60313,49,Female,Vũng Tàu,New,Sporty,1
+CUST-63151,50,Male,Hà Nội,Gold,Elegant,13
+CUST-22647,48,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-37313,40,Female,Hà Nội,New,Formal,1
+CUST-47326,42,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-49807,59,Male,TP. Hồ Chí Minh,New,Elegant,2
+CUST-71354,40,Female,TP. Hồ Chí Minh,Silver,Formal,9
+CUST-92375,45,Female,Biên Hòa,New,Formal,0
+CUST-99374,48,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-12204,65,Male,TP. Hồ Chí Minh,New,Casual,3
+CUST-33019,58,Female,Đà Lạt,New,Elegant,0
+CUST-27018,47,Female,Nha Trang,Silver,Elegant,2
+CUST-38109,62,Male,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-40098,46,Female,Hà Nội,Silver,Elegant,4
+CUST-10759,60,Female,Hải Phòng,New,Classic,2
+CUST-25767,41,Female,Huế,Silver,Elegant,3
+CUST-44776,60,Female,Đà Nẵng,Silver,Formal,4
+CUST-66035,48,Female,Hà Nội,New,Classic,1
+CUST-65871,43,Female,Cần Thơ,New,Elegant,1
+CUST-91487,50,Female,Hải Phòng,New,Formal,1
+CUST-98671,54,Female,Đà Nẵng,New,Formal,3
+CUST-45404,48,Female,Huế,New,Elegant,3
+CUST-11948,56,Female,Nha Trang,New,Sporty,3
+CUST-19325,47,Female,Hải Phòng,Silver,Elegant,4
+CUST-55927,56,Female,Hải Phòng,Silver,Elegant,2
+CUST-57208,55,Female,Hải Phòng,Silver,Classic,6
+CUST-85331,51,Female,Đà Nẵng,Silver,Elegant,5
+CUST-54313,48,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-61785,53,Female,Cần Thơ,Gold,Classic,6
+CUST-40258,56,Female,Đà Nẵng,Silver,Formal,5
+CUST-44134,68,Male,TP. Hồ Chí Minh,Silver,Elegant,10
+CUST-85540,59,Female,Hà Nội,New,Elegant,0
+CUST-20675,59,Female,Cần Thơ,Silver,Classic,0
+CUST-62162,75,Female,Hải Phòng,Silver,Elegant,2
+CUST-37096,56,Female,TP. Hồ Chí Minh,Silver,Sporty,8
+CUST-90810,55,Female,TP. Hồ Chí Minh,Silver,Casual,8
+CUST-48281,57,Female,TP. Hồ Chí Minh,Gold,Casual,11
+CUST-54849,43,Male,Biên Hòa,Gold,Casual,16
+CUST-42862,48,Female,Huế,Silver,Elegant,5
+CUST-85701,47,Female,Đà Nẵng,Gold,Elegant,13
+CUST-71232,57,Female,TP. Hồ Chí Minh,Gold,Classic,12
+CUST-78294,50,Female,Cần Thơ,New,Formal,1
+CUST-57211,53,Male,Đà Nẵng,Silver,Classic,4
+CUST-52878,60,Female,Vũng Tàu,New,Elegant,0
+CUST-39420,58,Female,Hà Nội,New,Casual,1
+CUST-85037,50,Female,Hà Nội,New,Elegant,0
+CUST-92760,46,Female,Đà Nẵng,New,Classic,4
+CUST-40074,61,Female,Hà Nội,New,Elegant,2
+CUST-88301,58,Female,Đà Nẵng,New,Classic,1
+CUST-57942,40,Female,Nha Trang,New,Classic,0
+CUST-76083,49,Female,Hà Nội,Silver,Formal,3
+CUST-42577,53,Female,TP. Hồ Chí Minh,Gold,Casual,15
+CUST-74421,58,Female,Hải Phòng,Gold,Elegant,15
+CUST-15163,59,Female,Huế,New,Casual,2
+CUST-64548,54,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-77796,56,Female,Hà Nội,Gold,Casual,14
+CUST-80599,52,Female,Đà Nẵng,New,Formal,0
+CUST-69559,46,Male,TP. Hồ Chí Minh,Gold,Formal,14
+CUST-46152,49,Female,Nha Trang,Silver,Elegant,7
+CUST-67689,52,Female,Đà Nẵng,Silver,Classic,9
+CUST-59427,51,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-66663,40,Female,Cần Thơ,New,Classic,1
+CUST-85908,48,Male,TP. Hồ Chí Minh,Silver,Sporty,5
+CUST-84973,52,Female,Hà Nội,New,Casual,0
+CUST-84706,49,Female,Đà Nẵng,Silver,Classic,5
+CUST-31656,50,Male,Biên Hòa,Silver,Sporty,6
+CUST-33896,55,Female,Cần Thơ,New,Casual,2
+CUST-17476,43,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-11236,40,Female,Cần Thơ,New,Formal,2
+CUST-53843,49,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-74282,58,Female,Đà Nẵng,Silver,Classic,6
+CUST-62124,65,Female,Đà Nẵng,Silver,Classic,6
+CUST-98492,58,Female,TP. Hồ Chí Minh,Silver,Formal,6
+CUST-53570,40,Female,TP. Hồ Chí Minh,New,Elegant,4
+CUST-27278,50,Female,Biên Hòa,New,Classic,0
+CUST-35959,54,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-27116,53,Female,Nha Trang,Silver,Formal,7
+CUST-30697,56,Female,Hải Phòng,Silver,Elegant,6
+CUST-66186,44,Female,Đà Nẵng,Silver,Elegant,6
+CUST-13968,52,Female,Hà Nội,Gold,Sporty,9
+CUST-93621,55,Female,Hà Nội,New,Casual,0
+CUST-90634,58,Female,Hà Nội,New,Classic,0
+CUST-31697,45,Female,Đà Nẵng,Silver,Classic,7
+CUST-26083,49,Female,Vũng Tàu,New,Classic,0
+CUST-37232,40,Female,Huế,Silver,Casual,8
+CUST-23394,47,Female,Hà Nội,New,Classic,1
+CUST-91690,47,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-51722,43,Female,Hà Nội,New,Elegant,1
+CUST-52646,53,Female,Vũng Tàu,Silver,Formal,6
+CUST-48562,51,Male,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-13665,40,Female,Hà Nội,New,Formal,2
+CUST-77150,53,Female,Hải Phòng,New,Elegant,0
+CUST-84274,44,Male,Đà Nẵng,New,Elegant,1
+CUST-17116,55,Male,TP. Hồ Chí Minh,New,Elegant,1
+CUST-39213,41,Female,Hải Phòng,Silver,Elegant,6
+CUST-44902,52,Female,Hà Nội,New,Classic,2
+CUST-84943,49,Male,Hà Nội,New,Casual,1
+CUST-49852,54,Female,Hà Nội,New,Formal,1
+CUST-54712,52,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-22589,49,Female,Vũng Tàu,Silver,Classic,2
+CUST-67876,40,Female,Đà Nẵng,Silver,Classic,1
+CUST-99444,40,Female,Cần Thơ,Silver,Formal,4
+CUST-81275,47,Female,TP. Hồ Chí Minh,Gold,Elegant,15
+CUST-84605,51,Female,Cần Thơ,New,Classic,2
+CUST-27825,47,Female,Biên Hòa,Gold,Elegant,16
+CUST-59434,57,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-95183,49,Male,Vũng Tàu,New,Casual,2
+CUST-97951,44,Female,Hải Phòng,Silver,Elegant,5
+CUST-91838,49,Male,Cần Thơ,Silver,Elegant,2
+CUST-84364,53,Male,TP. Hồ Chí Minh,Silver,Formal,3
+CUST-47147,54,Female,Hải Phòng,New,Elegant,3
+CUST-24752,67,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-73269,46,Female,Biên Hòa,Gold,Classic,20
+CUST-24561,51,Male,Đà Lạt,New,Formal,2
+CUST-51503,55,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-56694,51,Female,Biên Hòa,New,Elegant,0
+CUST-77275,47,Female,Đà Lạt,New,Formal,1
+CUST-28591,40,Female,Đà Nẵng,Silver,Classic,3
+CUST-70023,47,Female,Hà Nội,Silver,Elegant,2
+CUST-10954,43,Female,Hà Nội,Gold,Casual,17
+CUST-39669,40,Female,Hà Nội,New,Casual,2
+CUST-66995,45,Female,Hà Nội,New,Classic,1
+CUST-92320,43,Female,Vũng Tàu,New,Classic,0
+CUST-44492,56,Female,Hà Nội,New,Elegant,1
+CUST-76974,56,Male,Hải Phòng,Silver,Casual,0
+CUST-72736,44,Female,Hải Phòng,New,Sporty,1
+CUST-22812,49,Female,Hải Phòng,New,Classic,1
+CUST-71159,40,Male,Hà Nội,Gold,Sporty,13
+CUST-78536,48,Female,Đà Nẵng,Silver,Elegant,4
+CUST-37656,55,Female,Hải Phòng,New,Casual,5
+CUST-47752,58,Male,Đà Nẵng,Silver,Formal,6
+CUST-78672,46,Female,Hà Nội,Silver,Casual,7
+CUST-49986,60,Female,Cần Thơ,Gold,Elegant,13
+CUST-98540,40,Female,Hà Nội,Silver,Classic,5
+CUST-16814,42,Female,Đà Nẵng,New,Elegant,0
+CUST-95248,57,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-54628,65,Female,TP. Hồ Chí Minh,New,Sporty,4
+CUST-42458,55,Female,Nha Trang,Silver,Classic,2
+CUST-55213,51,Female,Hà Nội,Silver,Elegant,10
+CUST-20644,40,Female,Biên Hòa,Silver,Elegant,5
+CUST-69459,40,Female,Đà Lạt,Silver,Classic,5
+CUST-63445,53,Female,TP. Hồ Chí Minh,New,Classic,4
+CUST-31297,49,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-23664,43,Female,Hà Nội,New,Casual,1
+CUST-73084,52,Male,Đà Lạt,New,Elegant,1
+CUST-43114,52,Female,Hải Phòng,Silver,Casual,4
+CUST-46935,59,Female,Hà Nội,Gold,Classic,11
+CUST-86196,53,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-72819,61,Female,Hà Nội,Silver,Casual,2
+CUST-83585,52,Male,Đà Nẵng,New,Casual,1
+CUST-48846,51,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-11306,60,Female,Hà Nội,New,Casual,2
+CUST-90314,44,Female,Nha Trang,Silver,Classic,7
+CUST-76072,74,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-15919,55,Female,Đà Nẵng,New,Sporty,2
+CUST-37925,55,Male,Hải Phòng,Silver,Sporty,4
+CUST-75015,56,Female,Biên Hòa,New,Elegant,0
+CUST-25390,67,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-53377,58,Female,Đà Lạt,New,Casual,3
+CUST-39727,40,Female,TP. Hồ Chí Minh,Gold,Elegant,12
+CUST-60294,63,Female,Huế,New,Classic,1
+CUST-34966,49,Female,TP. Hồ Chí Minh,Silver,Elegant,8
+CUST-16908,52,Female,Cần Thơ,Gold,Casual,12
+CUST-14944,41,Female,Hà Nội,Silver,Formal,4
+CUST-83127,56,Male,Vũng Tàu,New,Classic,1
+CUST-84917,46,Female,Biên Hòa,Silver,Classic,9
+CUST-87278,52,Male,TP. Hồ Chí Minh,New,Elegant,1
+CUST-16411,49,Female,Đà Nẵng,Silver,Classic,5
+CUST-14978,67,Female,Đà Nẵng,New,Formal,1
+CUST-20308,67,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-13707,52,Female,Hải Phòng,Silver,Classic,1
+CUST-53969,52,Female,Hải Phòng,New,Classic,2
+CUST-44162,49,Female,Đà Nẵng,New,Casual,1
+CUST-84513,60,Female,Hà Nội,New,Casual,1
+CUST-56209,49,Male,Đà Lạt,Silver,Casual,3
+CUST-37981,48,Female,Hà Nội,New,Classic,1
+CUST-31883,59,Female,Hải Phòng,Silver,Casual,5
+CUST-81178,47,Female,Hà Nội,Silver,Casual,1
+CUST-33917,51,Female,Hà Nội,Gold,Casual,14
+CUST-56299,40,Female,Hà Nội,New,Classic,0
+CUST-75265,57,Male,TP. Hồ Chí Minh,New,Formal,1
+CUST-54819,67,Female,Hải Phòng,New,Elegant,0
+CUST-85664,57,Male,Đà Nẵng,Silver,Elegant,4
+CUST-91968,63,Female,Hải Phòng,New,Sporty,2
+CUST-99240,45,Female,Hải Phòng,New,Elegant,0
+CUST-88886,53,Female,Hà Nội,New,Formal,1
+CUST-59688,44,Female,Hà Nội,Silver,Casual,8
+CUST-75565,50,Male,Hải Phòng,Gold,Formal,12
+CUST-81937,58,Female,Hải Phòng,New,Classic,2
+CUST-55633,52,Female,Đà Nẵng,New,Formal,0
+CUST-95598,40,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-42099,41,Female,Nha Trang,New,Classic,2
+CUST-56849,40,Female,Hà Nội,Gold,Classic,20
+CUST-65717,55,Male,Hải Phòng,New,Elegant,3
+CUST-57142,68,Female,Hà Nội,Silver,Elegant,5
+CUST-99452,62,Female,Hải Phòng,Gold,Sporty,12
+CUST-27531,40,Female,TP. Hồ Chí Minh,Silver,Elegant,2
+CUST-58878,63,Female,Cần Thơ,New,Casual,1
+CUST-40503,59,Female,Hà Nội,Silver,Classic,2
+CUST-80089,40,Female,Đà Nẵng,New,Classic,2
+CUST-31922,49,Female,Hà Nội,New,Sporty,0
+CUST-38146,60,Female,Hải Phòng,Gold,Elegant,8
+CUST-64889,56,Male,Hà Nội,New,Casual,2
+CUST-68075,41,Male,Hà Nội,New,Classic,0
+CUST-62265,56,Female,Cần Thơ,New,Elegant,0
+CUST-67677,40,Female,Hà Nội,New,Elegant,0
+CUST-58695,50,Female,TP. Hồ Chí Minh,Silver,Casual,2
+CUST-72490,61,Female,Nha Trang,Silver,Elegant,4
+CUST-62495,52,Female,Nha Trang,Silver,Formal,9
+CUST-60365,48,Female,Huế,New,Casual,1
+CUST-41234,59,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-60961,59,Male,Đà Nẵng,New,Elegant,3
+CUST-18478,62,Male,Nha Trang,Silver,Elegant,5
+CUST-30083,58,Female,Hà Nội,Silver,Casual,3
+CUST-23168,60,Female,Cần Thơ,Silver,Classic,6
+CUST-52210,57,Female,Hà Nội,Gold,Elegant,8
+CUST-52490,54,Female,Đà Lạt,Silver,Classic,6
+CUST-47249,52,Female,Hải Phòng,New,Classic,2
+CUST-36590,50,Male,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-13210,42,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-91949,44,Female,Hà Nội,Gold,Elegant,10
+CUST-38226,49,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-63559,53,Female,Cần Thơ,Silver,Casual,4
+CUST-62379,63,Female,Đà Nẵng,New,Casual,1
+CUST-94506,51,Female,Đà Nẵng,Silver,Elegant,4
+CUST-29376,60,Female,Hà Nội,Gold,Elegant,13
+CUST-84801,60,Female,Hải Phòng,Gold,Casual,16
+CUST-46397,50,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-23662,56,Female,Hà Nội,New,Classic,0
+CUST-99092,50,Female,Biên Hòa,Silver,Classic,3
+CUST-96500,62,Male,TP. Hồ Chí Minh,Silver,Elegant,8
+CUST-66508,57,Female,Đà Nẵng,Gold,Classic,11
+CUST-45687,42,Female,Vũng Tàu,New,Elegant,2
+CUST-64404,53,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-79952,65,Female,Biên Hòa,Silver,Elegant,4
+CUST-48103,50,Female,Hải Phòng,New,Classic,3
+CUST-64737,55,Female,Hải Phòng,New,Classic,2
+CUST-37133,56,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-18317,43,Male,Hà Nội,New,Casual,1
+CUST-34762,56,Female,TP. Hồ Chí Minh,Silver,Casual,7
+CUST-94407,40,Female,Hà Nội,Silver,Sporty,3
+CUST-21941,46,Male,Hà Nội,New,Elegant,2
+CUST-96684,60,Female,Đà Nẵng,New,Elegant,1
+CUST-20616,54,Female,Cần Thơ,Gold,Classic,11
+CUST-21518,49,Female,Hà Nội,Silver,Formal,7
+CUST-99929,55,Female,Cần Thơ,Silver,Classic,2
+CUST-91372,51,Female,Biên Hòa,Silver,Classic,8
+CUST-45982,52,Female,Cần Thơ,Silver,Casual,5
+CUST-71528,57,Female,Nha Trang,Gold,Elegant,11
+CUST-55273,46,Male,Cần Thơ,Silver,Classic,4
+CUST-51115,52,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-23220,49,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-24065,40,Female,Biên Hòa,New,Casual,4
+CUST-93773,44,Female,Hải Phòng,Silver,Classic,6
+CUST-49427,64,Female,Nha Trang,New,Casual,2
+CUST-67824,55,Female,Biên Hòa,Silver,Classic,7
+CUST-32934,41,Male,TP. Hồ Chí Minh,Gold,Elegant,17
+CUST-72327,40,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-57878,51,Female,Hải Phòng,New,Casual,0
+CUST-61483,64,Female,Hà Nội,Silver,Formal,5
+CUST-47264,50,Female,Đà Nẵng,New,Casual,0
+CUST-36841,62,Female,Nha Trang,Silver,Elegant,4
+CUST-58211,54,Female,Đà Nẵng,Silver,Classic,4
+CUST-94266,55,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-32116,41,Female,Cần Thơ,Silver,Elegant,3
+CUST-22927,59,Female,Hà Nội,Silver,Classic,2
+CUST-49776,49,Female,Đà Lạt,New,Classic,3
+CUST-60989,58,Female,Hà Nội,New,Elegant,0
+CUST-87738,45,Female,Huế,New,Formal,3
+CUST-66691,53,Female,TP. Hồ Chí Minh,Gold,Elegant,9
+CUST-32669,54,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-79847,50,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-58373,55,Male,Hà Nội,New,Casual,3
+CUST-50850,49,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-99739,46,Female,Huế,New,Casual,2
+CUST-97306,64,Male,Nha Trang,Silver,Casual,7
+CUST-43530,60,Female,Hà Nội,New,Formal,3
+CUST-26350,45,Female,Hải Phòng,Silver,Classic,3
+CUST-78621,56,Female,Huế,New,Elegant,2
+CUST-18171,46,Female,Nha Trang,New,Casual,1
+CUST-43066,42,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-25424,60,Male,Hà Nội,Silver,Casual,10
+CUST-46667,40,Female,Biên Hòa,Gold,Casual,10
+CUST-73219,59,Female,TP. Hồ Chí Minh,New,Casual,5
+CUST-50888,49,Female,TP. Hồ Chí Minh,Gold,Sporty,4
+CUST-88773,50,Male,Cần Thơ,New,Casual,1
+CUST-29524,55,Female,TP. Hồ Chí Minh,Silver,Formal,7
+CUST-13773,56,Female,Huế,Silver,Casual,7
+CUST-10390,45,Female,Hà Nội,New,Elegant,1
+CUST-64913,57,Female,Cần Thơ,New,Casual,2
+CUST-16255,52,Female,Biên Hòa,New,Casual,1
+CUST-14856,41,Female,Vũng Tàu,Silver,Sporty,5
+CUST-55381,50,Female,Biên Hòa,New,Elegant,1
+CUST-64490,63,Female,Huế,Gold,Classic,13
+CUST-76777,65,Female,TP. Hồ Chí Minh,New,Formal,4
+CUST-97342,57,Female,Biên Hòa,Gold,Elegant,20
+CUST-56563,42,Female,Biên Hòa,New,Casual,0
+CUST-73258,55,Female,Đà Nẵng,Silver,Classic,12
+CUST-18909,58,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-34127,57,Female,Hà Nội,New,Elegant,1
+CUST-11403,58,Female,Đà Nẵng,New,Formal,1
+CUST-27202,54,Male,Cần Thơ,Silver,Elegant,7
+CUST-14725,51,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-75465,47,Female,TP. Hồ Chí Minh,Silver,Casual,7
+CUST-82479,40,Female,Đà Nẵng,Gold,Casual,11
+CUST-23831,54,Male,Hà Nội,New,Classic,1
+CUST-49993,53,Female,Biên Hòa,New,Elegant,0
+CUST-85851,56,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-17666,41,Female,Hà Nội,New,Elegant,2
+CUST-66146,57,Female,Hà Nội,New,Elegant,0
+CUST-58862,68,Male,Huế,Silver,Sporty,7
+CUST-76412,52,Male,Huế,New,Classic,2
+CUST-58112,51,Female,Hà Nội,New,Elegant,2
+CUST-54965,54,Female,Hà Nội,Silver,Sporty,4
+CUST-72153,68,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-21133,43,Female,Hà Nội,Silver,Elegant,7
+CUST-20136,53,Male,Cần Thơ,Gold,Classic,6
+CUST-27984,45,Female,Hà Nội,New,Casual,1
+CUST-50660,47,Female,Đà Nẵng,Silver,Formal,7
+CUST-13578,51,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-49801,62,Female,TP. Hồ Chí Minh,Silver,Sporty,3
+CUST-84690,66,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-99485,55,Female,Hà Nội,Silver,Casual,6
+CUST-72226,48,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-85419,71,Female,Hà Nội,Silver,Formal,4
+CUST-78822,48,Female,Hà Nội,Silver,Formal,6
+CUST-20716,47,Male,Vũng Tàu,Silver,Classic,6
+CUST-92701,40,Female,TP. Hồ Chí Minh,Silver,Formal,8
+CUST-96304,63,Female,TP. Hồ Chí Minh,New,Casual,4
+CUST-81397,59,Female,Hà Nội,Silver,Elegant,4
+CUST-69646,71,Female,Cần Thơ,New,Casual,0
+CUST-15101,40,Female,Biên Hòa,New,Sporty,1
+CUST-31829,63,Female,Nha Trang,New,Classic,1
+CUST-85719,52,Female,Đà Nẵng,New,Elegant,1
+CUST-35655,58,Female,Nha Trang,Silver,Sporty,6
+CUST-31266,40,Male,TP. Hồ Chí Minh,New,Classic,1
+CUST-95865,63,Female,Huế,Silver,Classic,8
+CUST-81450,58,Female,Nha Trang,Silver,Casual,5
+CUST-97370,51,Female,Hà Nội,New,Casual,1
+CUST-64018,57,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-83102,45,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-14605,47,Female,Hà Nội,Silver,Formal,3
+CUST-23936,48,Female,Huế,New,Classic,4
+CUST-10484,40,Female,Hà Nội,New,Casual,3
+CUST-10487,58,Female,Cần Thơ,New,Formal,1
+CUST-13224,61,Female,Vũng Tàu,New,Elegant,0
+CUST-91082,46,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-68511,54,Female,TP. Hồ Chí Minh,Gold,Casual,13
+CUST-35758,49,Female,Đà Nẵng,New,Sporty,0
+CUST-91192,54,Female,Nha Trang,New,Elegant,2
+CUST-11299,46,Female,TP. Hồ Chí Minh,Gold,Classic,8
+CUST-27672,44,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-82074,60,Female,Đà Nẵng,New,Formal,1
+CUST-79259,51,Female,Biên Hòa,Silver,Sporty,4
+CUST-86177,68,Female,TP. Hồ Chí Minh,Gold,Classic,17
+CUST-22752,52,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-50418,44,Male,Vũng Tàu,New,Elegant,1
+CUST-31474,61,Female,Hà Nội,Gold,Casual,17
+CUST-31928,57,Female,Hà Nội,Silver,Formal,3
+CUST-12585,57,Male,Đà Nẵng,Gold,Casual,12
+CUST-86994,61,Female,Hà Nội,New,Classic,0
+CUST-89990,46,Female,Hà Nội,Gold,Sporty,22
+CUST-70702,50,Female,Hải Phòng,New,Elegant,2
+CUST-18064,50,Female,Hải Phòng,Silver,Classic,5
+CUST-65584,41,Female,TP. Hồ Chí Minh,Gold,Classic,6
+CUST-67975,49,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-22174,62,Female,Đà Nẵng,New,Casual,0
+CUST-69364,53,Female,Hải Phòng,Silver,Casual,6
+CUST-12137,41,Female,Nha Trang,Silver,Elegant,5
+CUST-99100,40,Female,Nha Trang,New,Elegant,6
+CUST-69372,65,Female,Hải Phòng,Gold,Classic,15
+CUST-19490,51,Female,Đà Lạt,New,Casual,0
+CUST-13854,46,Female,Huế,New,Classic,1
+CUST-84637,49,Female,Hà Nội,New,Classic,2
+CUST-79384,40,Female,Biên Hòa,Gold,Elegant,20
+CUST-35320,63,Female,Đà Lạt,New,Casual,0
+CUST-71048,48,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-88414,62,Male,Hà Nội,New,Classic,2
+CUST-99943,52,Female,Đà Nẵng,Gold,Classic,12
+CUST-98925,63,Female,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-44867,54,Female,Cần Thơ,New,Elegant,1
+CUST-19863,58,Male,Đà Nẵng,New,Elegant,2
+CUST-58601,57,Female,Hà Nội,New,Casual,1
+CUST-99401,56,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-75846,54,Female,Đà Lạt,Silver,Elegant,1
+CUST-91921,50,Female,Hà Nội,Silver,Sporty,6
+CUST-55985,67,Male,Cần Thơ,New,Classic,3
+CUST-36931,44,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-11078,52,Female,TP. Hồ Chí Minh,New,Classic,3
+CUST-49454,52,Female,Đà Nẵng,New,Elegant,1
+CUST-38133,55,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-50903,48,Female,Hải Phòng,New,Formal,3
+CUST-96376,54,Female,Hải Phòng,Silver,Classic,3
+CUST-36347,50,Female,Hà Nội,New,Casual,1
+CUST-48474,40,Female,TP. Hồ Chí Minh,Silver,Sporty,7
+CUST-83630,52,Female,Cần Thơ,New,Elegant,4
+CUST-74459,43,Female,Cần Thơ,Silver,Casual,4
+CUST-50528,40,Male,Đà Nẵng,New,Elegant,0
+CUST-18535,53,Female,Nha Trang,New,Classic,3
+CUST-11097,55,Female,Hà Nội,New,Formal,1
+CUST-58576,56,Female,Hà Nội,New,Elegant,3
+CUST-71208,56,Female,Hải Phòng,New,Sporty,0
+CUST-12888,40,Female,Hải Phòng,New,Casual,0
+CUST-62480,41,Female,Nha Trang,Silver,Classic,5
+CUST-52660,67,Female,Hà Nội,New,Elegant,0
+CUST-20877,43,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-20950,56,Female,Hải Phòng,Silver,Classic,2
+CUST-66838,46,Female,TP. Hồ Chí Minh,Silver,Elegant,1
+CUST-88328,52,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-85884,46,Female,Hải Phòng,New,Elegant,1
+CUST-34175,56,Female,Hà Nội,Silver,Sporty,3
+CUST-20570,53,Female,TP. Hồ Chí Minh,Silver,Classic,10
+CUST-47813,48,Female,Hà Nội,Silver,Classic,2
+CUST-94869,43,Female,Đà Lạt,New,Casual,2
+CUST-85514,54,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-74042,42,Female,Hà Nội,New,Formal,1
+CUST-10436,55,Female,Hà Nội,New,Sporty,0
+CUST-98035,73,Female,Hà Nội,New,Elegant,0
+CUST-68169,62,Female,Hà Nội,New,Classic,2
+CUST-43582,57,Female,Đà Nẵng,Silver,Casual,5
+CUST-22485,51,Female,Hà Nội,Gold,Elegant,14
+CUST-52775,40,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-64670,41,Female,Hà Nội,Silver,Elegant,6
+CUST-79629,62,Female,TP. Hồ Chí Minh,Silver,Formal,7
+CUST-42194,45,Female,Hà Nội,Gold,Casual,13
+CUST-93537,46,Female,Đà Nẵng,Silver,Classic,1
+CUST-94691,50,Female,Hải Phòng,New,Classic,1
+CUST-59347,43,Female,Cần Thơ,New,Sporty,0
+CUST-25706,42,Male,TP. Hồ Chí Minh,Silver,Casual,9
+CUST-75117,51,Female,Huế,New,Formal,1
+CUST-21415,44,Female,Hải Phòng,Gold,Formal,10
+CUST-44208,46,Male,Hà Nội,Gold,Elegant,15
+CUST-75815,45,Female,TP. Hồ Chí Minh,Gold,Elegant,9
+CUST-49080,56,Female,Cần Thơ,New,Elegant,4
+CUST-59532,50,Female,TP. Hồ Chí Minh,Silver,Casual,7
+CUST-93545,50,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-17698,56,Female,Hải Phòng,New,Classic,0
+CUST-23189,50,Female,Hà Nội,New,Sporty,0
+CUST-95794,49,Female,Biên Hòa,New,Elegant,1
+CUST-24066,55,Female,Hà Nội,New,Casual,1
+CUST-37937,57,Female,Hà Nội,Gold,Classic,12
+CUST-38064,50,Female,Hà Nội,Silver,Classic,4
+CUST-57500,52,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-42505,45,Male,Đà Lạt,Silver,Casual,4
+CUST-80977,45,Female,Nha Trang,New,Casual,2
+CUST-34146,58,Male,Đà Lạt,New,Classic,0
+CUST-66633,55,Female,Đà Nẵng,New,Classic,2
+CUST-78062,55,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-82934,54,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-90188,52,Female,Hà Nội,Silver,Casual,4
+CUST-75895,57,Female,Đà Lạt,Gold,Classic,15
+CUST-39781,59,Male,TP. Hồ Chí Minh,New,Formal,2
+CUST-75209,59,Female,TP. Hồ Chí Minh,Silver,Casual,4
+CUST-69916,51,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-28590,63,Female,Nha Trang,New,Casual,3
+CUST-79120,53,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-92270,57,Female,Cần Thơ,New,Formal,2
+CUST-47368,54,Male,Cần Thơ,New,Casual,2
+CUST-75060,53,Female,Huế,New,Elegant,2
+CUST-68727,46,Female,Hà Nội,New,Casual,1
+CUST-53581,57,Female,Hà Nội,Gold,Elegant,11
+CUST-17829,74,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-74385,49,Male,Huế,Silver,Sporty,6
+CUST-20454,52,Male,Biên Hòa,Gold,Casual,8
+CUST-80166,48,Female,Đà Nẵng,Silver,Classic,7
+CUST-20689,48,Male,Hà Nội,New,Casual,4
+CUST-85443,64,Female,Hà Nội,Gold,Classic,12
+CUST-93138,46,Female,Hải Phòng,New,Elegant,2
+CUST-22421,48,Female,Hà Nội,New,Formal,0
+CUST-63531,40,Female,Đà Nẵng,Silver,Classic,4
+CUST-31044,45,Female,Huế,New,Classic,1
+CUST-53940,40,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-56222,57,Female,TP. Hồ Chí Minh,New,Sporty,0
+CUST-81359,74,Male,Hà Nội,Silver,Sporty,9
+CUST-92152,49,Male,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-78207,40,Female,Hải Phòng,Gold,Elegant,30
+CUST-74978,59,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-56664,46,Female,Hà Nội,New,Classic,1
+CUST-70651,62,Female,Hà Nội,Gold,Sporty,14
+CUST-51607,49,Female,Hà Nội,Silver,Formal,4
+CUST-52496,46,Female,Hải Phòng,New,Casual,2
+CUST-61113,50,Female,Đà Nẵng,New,Elegant,0
+CUST-10701,58,Female,TP. Hồ Chí Minh,Silver,Casual,1
+CUST-60446,50,Female,TP. Hồ Chí Minh,Silver,Sporty,6
+CUST-21549,48,Female,Hà Nội,Silver,Classic,5
+CUST-25295,50,Male,TP. Hồ Chí Minh,Gold,Formal,13
+CUST-24976,41,Female,Hà Nội,New,Classic,2
+CUST-65022,55,Female,Biên Hòa,New,Sporty,2
+CUST-56484,40,Female,Hà Nội,Silver,Casual,1
+CUST-18487,48,Female,TP. Hồ Chí Minh,Gold,Elegant,15
+CUST-14478,58,Female,Hà Nội,New,Classic,1
+CUST-62694,54,Female,Nha Trang,Silver,Elegant,6
+CUST-74463,56,Female,Hà Nội,New,Classic,2
+CUST-32628,51,Female,Biên Hòa,New,Formal,3
+CUST-18046,61,Female,Hà Nội,Gold,Elegant,11
+CUST-94485,59,Female,Nha Trang,New,Sporty,1
+CUST-93177,55,Female,Hải Phòng,New,Elegant,4
+CUST-81010,59,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-99010,58,Female,Hà Nội,New,Sporty,5
+CUST-79896,48,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-49760,41,Female,Nha Trang,Silver,Formal,1
+CUST-99729,55,Female,Huế,New,Sporty,2
+CUST-46325,56,Female,Hà Nội,Silver,Casual,9
+CUST-81530,60,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-25129,44,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-95643,44,Female,Hà Nội,Silver,Classic,8
+CUST-95738,55,Female,Hải Phòng,New,Elegant,2
+CUST-22273,51,Female,TP. Hồ Chí Minh,Gold,Formal,18
+CUST-74614,40,Male,TP. Hồ Chí Minh,Gold,Casual,18
+CUST-93598,55,Male,Huế,Silver,Casual,6
+CUST-56735,40,Female,Cần Thơ,New,Formal,0
+CUST-17547,44,Female,Nha Trang,New,Elegant,2
+CUST-61878,62,Female,Hà Nội,Gold,Sporty,16
+CUST-74823,66,Female,Đà Lạt,New,Elegant,0
+CUST-65548,42,Female,Đà Nẵng,Silver,Classic,8
+CUST-18494,49,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-66831,52,Female,Hà Nội,New,Classic,3
+CUST-64881,66,Female,Đà Lạt,New,Casual,2
+CUST-95086,48,Female,Đà Nẵng,Silver,Casual,9
+CUST-21800,48,Female,Nha Trang,Silver,Formal,5
+CUST-92089,64,Male,Hải Phòng,New,Elegant,0
+CUST-86889,49,Female,Nha Trang,Silver,Elegant,2
+CUST-54961,57,Female,Hải Phòng,Silver,Elegant,5
+CUST-72069,40,Male,Biên Hòa,New,Classic,1
+CUST-63372,50,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-28082,40,Female,Hà Nội,Silver,Classic,4
+CUST-13139,43,Female,Cần Thơ,Silver,Formal,8
+CUST-75653,58,Female,TP. Hồ Chí Minh,Gold,Sporty,9
+CUST-25787,51,Female,Đà Nẵng,New,Formal,0
+CUST-35743,49,Female,Cần Thơ,Gold,Elegant,14
+CUST-16474,46,Female,Đà Nẵng,Silver,Classic,5
+CUST-66546,50,Female,Nha Trang,Silver,Elegant,7
+CUST-78462,54,Male,TP. Hồ Chí Minh,New,Classic,1
+CUST-57595,59,Female,Huế,New,Classic,1
+CUST-59411,40,Female,Hà Nội,Silver,Sporty,7
+CUST-81869,45,Female,Hải Phòng,New,Casual,2
+CUST-28079,53,Female,Đà Lạt,New,Elegant,5
+CUST-68307,51,Female,TP. Hồ Chí Minh,Gold,Casual,18
+CUST-53714,55,Female,TP. Hồ Chí Minh,New,Sporty,2
+CUST-85818,54,Male,TP. Hồ Chí Minh,Gold,Elegant,16
+CUST-95821,49,Female,Đà Nẵng,Silver,Formal,4
+CUST-57842,47,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-51146,50,Female,Hà Nội,New,Elegant,1
+CUST-39340,61,Female,Đà Lạt,Silver,Formal,5
+CUST-78829,46,Female,Hà Nội,Silver,Elegant,2
+CUST-52972,51,Female,Đà Nẵng,Gold,Casual,10
+CUST-86327,53,Female,Đà Nẵng,New,Elegant,1
+CUST-91883,64,Female,Hà Nội,New,Casual,2
+CUST-69945,49,Female,Hà Nội,Gold,Casual,11
+CUST-94789,59,Female,Vũng Tàu,New,Formal,0
+CUST-80841,61,Female,Hải Phòng,Silver,Formal,2
+CUST-36529,51,Male,Hà Nội,New,Casual,0
+CUST-31040,50,Female,Nha Trang,New,Classic,2
+CUST-71280,49,Male,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-26346,49,Female,Hà Nội,Silver,Casual,7
+CUST-43911,58,Female,Hải Phòng,Silver,Classic,4
+CUST-48776,53,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-39267,53,Female,Hà Nội,Silver,Sporty,3
+CUST-75860,42,Female,Huế,Gold,Classic,4
+CUST-42744,44,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-55137,69,Male,TP. Hồ Chí Minh,New,Formal,1
+CUST-42845,50,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-40229,45,Female,Cần Thơ,Silver,Casual,4
+CUST-30785,63,Female,Cần Thơ,New,Elegant,0
+CUST-63998,54,Female,Đà Lạt,Silver,Classic,8
+CUST-47259,56,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-99649,50,Female,Nha Trang,Silver,Elegant,8
+CUST-52711,49,Female,Đà Nẵng,Silver,Casual,5
+CUST-48756,50,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-22492,40,Female,Hà Nội,New,Elegant,2
+CUST-15464,51,Female,Nha Trang,New,Elegant,0
+CUST-33817,54,Female,TP. Hồ Chí Minh,Silver,Elegant,2
+CUST-32327,66,Female,Hải Phòng,New,Elegant,1
+CUST-67166,52,Male,Đà Nẵng,Silver,Casual,5
+CUST-71332,40,Female,Hà Nội,New,Classic,1
+CUST-44421,51,Male,Vũng Tàu,New,Elegant,0
+CUST-80091,73,Female,Nha Trang,New,Classic,0
+CUST-51368,58,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-84523,45,Female,Hải Phòng,Gold,Classic,11
+CUST-86658,56,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-96439,46,Female,Cần Thơ,New,Casual,1
+CUST-55967,41,Female,Hà Nội,New,Casual,2
+CUST-38881,49,Female,TP. Hồ Chí Minh,Gold,Elegant,7
+CUST-57921,52,Male,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-83845,40,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-22028,42,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-76068,52,Female,Hà Nội,Silver,Casual,5
+CUST-79640,48,Female,Vũng Tàu,Silver,Sporty,5
+CUST-65095,55,Female,Hà Nội,New,Classic,2
+CUST-67438,42,Female,Hà Nội,Silver,Formal,7
+CUST-66127,57,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-79686,42,Female,Hải Phòng,New,Elegant,2
+CUST-61796,65,Female,Hà Nội,New,Elegant,4
+CUST-81704,40,Female,Đà Nẵng,New,Casual,3
+CUST-38671,43,Female,Cần Thơ,New,Elegant,4
+CUST-97579,55,Female,Hà Nội,New,Casual,1
+CUST-31446,65,Female,Vũng Tàu,Silver,Casual,4
+CUST-90704,54,Male,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-81589,56,Female,Hải Phòng,New,Classic,0
+CUST-85424,52,Female,Hà Nội,New,Casual,3
+CUST-84848,43,Female,Cần Thơ,Silver,Classic,4
+CUST-18861,48,Female,Huế,New,Formal,2
+CUST-71639,42,Female,Hà Nội,New,Elegant,2
+CUST-92693,41,Female,Hà Nội,Silver,Sporty,7
+CUST-46131,55,Male,TP. Hồ Chí Minh,New,Elegant,2
+CUST-14646,43,Male,Hà Nội,New,Elegant,1
+CUST-19544,54,Female,Vũng Tàu,Silver,Casual,10
+CUST-84526,41,Female,Đà Nẵng,Silver,Elegant,2
+CUST-18344,54,Female,Đà Nẵng,New,Elegant,2
+CUST-19091,48,Female,Biên Hòa,Silver,Elegant,5
+CUST-89901,63,Female,Huế,Gold,Casual,15
+CUST-56835,54,Female,Nha Trang,New,Classic,1
+CUST-92789,61,Female,TP. Hồ Chí Minh,Silver,Elegant,8
+CUST-43410,45,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-10632,52,Female,TP. Hồ Chí Minh,New,Elegant,5
+CUST-14404,44,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-35243,48,Male,TP. Hồ Chí Minh,New,Elegant,0
+CUST-47225,49,Female,Hà Nội,New,Casual,1
+CUST-94853,46,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-61085,42,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-67465,40,Female,TP. Hồ Chí Minh,Gold,Sporty,11
+CUST-32303,40,Female,Hà Nội,New,Classic,1
+CUST-30396,43,Male,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-31173,57,Female,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-89518,40,Female,Cần Thơ,New,Casual,0
+CUST-26232,41,Male,Cần Thơ,Silver,Classic,5
+CUST-54099,66,Female,Hà Nội,Silver,Elegant,2
+CUST-13888,46,Female,Hà Nội,New,Elegant,1
+CUST-57985,54,Male,TP. Hồ Chí Minh,New,Elegant,3
+CUST-86125,57,Female,Hà Nội,Silver,Sporty,2
+CUST-80895,57,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-88262,40,Female,Vũng Tàu,New,Elegant,2
+CUST-75831,50,Female,Hà Nội,Silver,Classic,5
+CUST-55126,40,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-98051,71,Female,Cần Thơ,New,Classic,1
+CUST-38443,40,Male,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-84081,43,Female,Hà Nội,Gold,Casual,17
+CUST-45209,43,Female,Hà Nội,New,Elegant,0
+CUST-81836,40,Female,Biên Hòa,New,Classic,4
+CUST-70889,62,Male,Hà Nội,New,Elegant,4
+CUST-56156,71,Female,Hải Phòng,Silver,Elegant,5
+CUST-62878,48,Female,Nha Trang,New,Casual,3
+CUST-48398,41,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-14775,40,Female,Cần Thơ,New,Sporty,3
+CUST-84336,50,Male,Hà Nội,Gold,Elegant,15
+CUST-25622,49,Male,TP. Hồ Chí Minh,New,Casual,1
+CUST-27428,46,Female,TP. Hồ Chí Minh,Silver,Sporty,5
+CUST-14955,53,Female,Vũng Tàu,New,Casual,2
+CUST-73429,55,Female,Hà Nội,New,Sporty,0
+CUST-11891,54,Female,Hà Nội,New,Sporty,0
+CUST-58334,49,Female,Biên Hòa,New,Formal,5
+CUST-20331,43,Female,Hà Nội,New,Sporty,1
+CUST-50764,57,Female,Huế,New,Casual,2
+CUST-23742,52,Male,Hải Phòng,New,Classic,1
+CUST-61658,59,Female,Đà Nẵng,New,Formal,3
+CUST-35472,58,Female,Cần Thơ,New,Formal,2
+CUST-23944,40,Female,Cần Thơ,New,Elegant,3
+CUST-24809,40,Female,Hà Nội,New,Classic,1
+CUST-63552,45,Female,Vũng Tàu,New,Elegant,2
+CUST-92399,43,Female,Biên Hòa,Silver,Formal,2
+CUST-91889,58,Female,Đà Lạt,Gold,Elegant,16
+CUST-22872,54,Female,Hải Phòng,Silver,Classic,10
+CUST-92615,60,Male,Đà Nẵng,New,Classic,2
+CUST-37766,55,Male,Đà Nẵng,Gold,Elegant,8
+CUST-38517,53,Female,Hà Nội,Gold,Sporty,17
+CUST-83787,61,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-27206,55,Female,Hải Phòng,New,Elegant,2
+CUST-23079,52,Female,Hải Phòng,Silver,Elegant,5
+CUST-42021,63,Male,TP. Hồ Chí Minh,Gold,Casual,12
+CUST-63189,52,Male,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-52541,49,Female,Hải Phòng,Silver,Classic,5
+CUST-15955,45,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-88891,57,Female,Biên Hòa,Gold,Formal,15
+CUST-19420,61,Female,Cần Thơ,New,Casual,1
+CUST-95828,51,Male,Hà Nội,New,Casual,2
+CUST-83071,62,Female,Hà Nội,Silver,Classic,4
+CUST-85245,40,Female,Hải Phòng,New,Sporty,0
+CUST-76759,51,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-99004,51,Female,Huế,New,Classic,0
+CUST-31178,46,Female,Hà Nội,New,Sporty,1
+CUST-34045,71,Male,Hà Nội,New,Formal,2
+CUST-32179,51,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-57522,48,Female,Cần Thơ,New,Casual,1
+CUST-50621,52,Female,Vũng Tàu,Silver,Classic,4
+CUST-34528,40,Female,Đà Lạt,New,Classic,2
+CUST-87636,45,Female,TP. Hồ Chí Minh,Gold,Elegant,16
+CUST-96151,59,Female,Nha Trang,Silver,Casual,1
+CUST-68346,46,Female,Hà Nội,Gold,Classic,12
+CUST-20178,45,Female,Đà Nẵng,New,Classic,1
+CUST-48116,62,Female,Biên Hòa,New,Sporty,4
+CUST-92920,62,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-43490,56,Male,Biên Hòa,Silver,Formal,11
+CUST-20641,48,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-46926,50,Female,Hà Nội,Silver,Elegant,5
+CUST-35943,45,Female,Đà Nẵng,Silver,Elegant,3
+CUST-63981,44,Female,Đà Lạt,New,Classic,2
+CUST-77430,43,Female,TP. Hồ Chí Minh,Silver,Classic,7
+CUST-87669,47,Female,Nha Trang,New,Classic,3
+CUST-93531,43,Female,Hà Nội,New,Casual,2
+CUST-64244,40,Female,Cần Thơ,Gold,Classic,14
+CUST-78489,53,Female,Đà Nẵng,New,Elegant,1
+CUST-57510,53,Male,Hà Nội,Silver,Classic,0
+CUST-39919,65,Female,Cần Thơ,Silver,Elegant,4
+CUST-30824,46,Male,Cần Thơ,Gold,Elegant,11
+CUST-51446,54,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-81327,54,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-32425,49,Female,Hà Nội,New,Casual,0
+CUST-84248,57,Female,Biên Hòa,Silver,Formal,4
+CUST-35775,58,Female,Hải Phòng,New,Casual,2
+CUST-19770,54,Female,Nha Trang,Silver,Classic,4
+CUST-69402,49,Female,Hải Phòng,New,Classic,1
+CUST-11596,49,Female,Nha Trang,New,Elegant,2
+CUST-85824,41,Female,Hà Nội,Gold,Casual,14
+CUST-80255,45,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-66785,47,Female,Hải Phòng,New,Elegant,1
+CUST-51842,43,Female,Hà Nội,Silver,Sporty,6
+CUST-48682,55,Female,Hà Nội,New,Elegant,0
+CUST-82012,61,Female,Hải Phòng,Silver,Elegant,5
+CUST-76101,44,Female,Huế,New,Sporty,0
+CUST-93533,54,Female,Hải Phòng,Silver,Classic,5
+CUST-26247,43,Female,Hà Nội,New,Classic,0
+CUST-63364,49,Female,Vũng Tàu,New,Elegant,0
+CUST-24859,46,Female,Hà Nội,Silver,Classic,5
+CUST-96510,56,Female,TP. Hồ Chí Minh,New,Sporty,3
+CUST-10582,46,Female,Vũng Tàu,New,Casual,1
+CUST-47525,60,Female,Nha Trang,New,Classic,0
+CUST-77047,50,Female,Biên Hòa,New,Classic,2
+CUST-99881,46,Female,Nha Trang,Silver,Classic,5
+CUST-74765,41,Female,Hải Phòng,New,Casual,1
+CUST-19482,54,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-85285,59,Female,TP. Hồ Chí Minh,Gold,Elegant,17
+CUST-66767,54,Female,Biên Hòa,New,Casual,3
+CUST-23271,69,Female,Huế,Silver,Formal,4
+CUST-59714,63,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-63452,49,Male,TP. Hồ Chí Minh,New,Formal,4
+CUST-12226,49,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-54698,55,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-92814,45,Female,Huế,New,Formal,0
+CUST-95992,61,Female,Hà Nội,New,Elegant,0
+CUST-35651,54,Male,TP. Hồ Chí Minh,Silver,Classic,2
+CUST-56658,54,Female,Biên Hòa,Silver,Elegant,4
+CUST-95577,57,Female,Đà Nẵng,Gold,Sporty,11
+CUST-38096,65,Female,TP. Hồ Chí Minh,Silver,Formal,5
+CUST-69362,53,Female,TP. Hồ Chí Minh,Silver,Formal,3
+CUST-55527,51,Female,Hà Nội,New,Elegant,6
+CUST-53755,64,Female,TP. Hồ Chí Minh,Silver,Sporty,8
+CUST-21840,59,Male,Hà Nội,New,Elegant,2
+CUST-36952,49,Male,Hà Nội,Gold,Elegant,16
+CUST-97151,52,Female,Hà Nội,Gold,Casual,11
+CUST-45607,53,Male,TP. Hồ Chí Minh,New,Casual,1
+CUST-17242,54,Female,Hà Nội,Silver,Formal,7
+CUST-93074,41,Female,Biên Hòa,Silver,Classic,7
+CUST-60807,40,Male,Hà Nội,Silver,Classic,7
+CUST-21083,44,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-99592,44,Female,Huế,Silver,Elegant,6
+CUST-21738,46,Female,Hà Nội,Silver,Formal,5
+CUST-83978,57,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-76189,50,Female,Huế,Silver,Elegant,2
+CUST-17558,53,Female,Đà Nẵng,New,Classic,2
+CUST-74079,42,Female,Hà Nội,Gold,Casual,13
+CUST-12248,48,Female,Cần Thơ,New,Formal,1
+CUST-82027,56,Female,Hải Phòng,New,Elegant,3
+CUST-87419,56,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-27894,46,Female,Hà Nội,Silver,Sporty,3
+CUST-47355,53,Female,Hà Nội,Silver,Classic,3
+CUST-62054,69,Female,Nha Trang,New,Classic,1
+CUST-78632,51,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-72190,46,Female,Hà Nội,Silver,Sporty,9
+CUST-93084,50,Male,TP. Hồ Chí Minh,New,Casual,1
+CUST-55357,52,Female,Biên Hòa,New,Elegant,2
+CUST-36563,50,Female,Hà Nội,Gold,Elegant,20
+CUST-20913,51,Female,Hà Nội,New,Elegant,2
+CUST-96833,40,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-70707,44,Female,Hải Phòng,New,Elegant,2
+CUST-11609,50,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-21809,50,Female,Đà Lạt,Silver,Elegant,3
+CUST-35021,47,Male,Hà Nội,New,Classic,4
+CUST-30574,50,Female,TP. Hồ Chí Minh,Silver,Classic,2
+CUST-25613,52,Female,TP. Hồ Chí Minh,Gold,Classic,10
+CUST-11248,59,Female,TP. Hồ Chí Minh,Silver,Formal,5
+CUST-93711,51,Male,TP. Hồ Chí Minh,New,Elegant,1
+CUST-22892,55,Male,Nha Trang,New,Formal,3
+CUST-48856,47,Female,TP. Hồ Chí Minh,Gold,Formal,8
+CUST-54863,56,Female,Cần Thơ,New,Sporty,2
+CUST-54735,55,Female,Hà Nội,New,Elegant,0
+CUST-97071,58,Female,Đà Nẵng,New,Elegant,2
+CUST-38708,57,Female,TP. Hồ Chí Minh,Silver,Casual,11
+CUST-79653,56,Female,Đà Nẵng,New,Elegant,3
+CUST-99422,51,Male,Hà Nội,New,Elegant,3
+CUST-37805,53,Female,Biên Hòa,Silver,Elegant,2
+CUST-35133,60,Female,Đà Lạt,New,Casual,0
+CUST-27600,46,Female,Nha Trang,New,Formal,1
+CUST-14012,46,Female,Đà Lạt,New,Elegant,2
+CUST-88364,53,Female,Hà Nội,New,Formal,2
+CUST-74509,55,Female,TP. Hồ Chí Minh,Gold,Casual,18
+CUST-63708,45,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-42904,51,Female,Đà Lạt,Silver,Classic,5
+CUST-26063,51,Female,Hà Nội,New,Elegant,0
+CUST-76914,40,Female,Hà Nội,New,Formal,1
+CUST-23735,50,Female,Hải Phòng,New,Casual,3
+CUST-89925,50,Female,Hà Nội,Silver,Casual,8
+CUST-84477,50,Male,Cần Thơ,New,Casual,6
+CUST-16061,63,Male,TP. Hồ Chí Minh,New,Elegant,3
+CUST-21000,42,Female,Hải Phòng,Gold,Formal,17
+CUST-12859,45,Female,Huế,New,Formal,4
+CUST-31594,40,Female,Đà Nẵng,Gold,Casual,13
+CUST-94932,48,Female,Hà Nội,New,Classic,2
+CUST-93955,48,Female,Hà Nội,New,Elegant,2
+CUST-10475,47,Female,Hà Nội,Silver,Elegant,7
+CUST-33521,60,Female,Hà Nội,New,Elegant,0
+CUST-44055,58,Female,Đà Nẵng,New,Casual,0
+CUST-76928,52,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-76017,49,Female,TP. Hồ Chí Minh,New,Sporty,2
+CUST-18466,60,Female,Hà Nội,Silver,Elegant,8
+CUST-89434,51,Female,Biên Hòa,New,Elegant,0
+CUST-43489,45,Female,Hà Nội,Gold,Elegant,6
+CUST-46766,40,Female,TP. Hồ Chí Minh,New,Sporty,2
+CUST-69303,48,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-40078,58,Female,Hà Nội,New,Classic,4
+CUST-79195,70,Male,Biên Hòa,Silver,Classic,2
+CUST-11982,52,Female,Hà Nội,Gold,Classic,13
+CUST-38317,45,Male,Hải Phòng,Silver,Elegant,6
+CUST-52086,42,Female,Hải Phòng,New,Elegant,4
+CUST-56507,56,Female,Nha Trang,New,Elegant,0
+CUST-20395,40,Female,Hải Phòng,Silver,Elegant,4
+CUST-90084,56,Female,Cần Thơ,New,Classic,2
+CUST-30026,58,Female,TP. Hồ Chí Minh,Silver,Classic,8
+CUST-89848,55,Male,TP. Hồ Chí Minh,New,Casual,2
+CUST-85802,50,Female,Cần Thơ,New,Classic,0
+CUST-77105,56,Female,Đà Nẵng,New,Classic,0
+CUST-18150,53,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-89931,45,Female,Hà Nội,Gold,Classic,15
+CUST-23584,66,Female,TP. Hồ Chí Minh,Silver,Casual,3
+CUST-98960,49,Female,TP. Hồ Chí Minh,Gold,Elegant,13
+CUST-96899,58,Female,Hà Nội,Silver,Casual,7
+CUST-49004,40,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-36786,62,Female,Hà Nội,New,Elegant,4
+CUST-14026,63,Female,Đà Nẵng,New,Elegant,1
+CUST-57796,52,Female,Cần Thơ,Silver,Casual,6
+CUST-24757,56,Female,Đà Nẵng,New,Casual,1
+CUST-26200,56,Female,Hải Phòng,Gold,Casual,17
+CUST-93918,46,Female,Hà Nội,Silver,Classic,8
+CUST-98880,56,Female,Hà Nội,Silver,Casual,8
+CUST-32948,45,Female,Hải Phòng,Silver,Classic,7
+CUST-91185,47,Female,Nha Trang,Silver,Elegant,4
+CUST-56177,61,Female,Cần Thơ,Silver,Classic,4
+CUST-65754,59,Female,Hải Phòng,Silver,Classic,2
+CUST-36083,46,Female,Cần Thơ,New,Formal,3
+CUST-66918,46,Female,Cần Thơ,Silver,Classic,4
+CUST-95436,46,Female,Cần Thơ,New,Classic,0
+CUST-28177,57,Female,Cần Thơ,Silver,Sporty,5
+CUST-38435,44,Female,Hà Nội,Silver,Formal,6
+CUST-96364,54,Female,Hà Nội,New,Elegant,5
+CUST-82471,57,Male,TP. Hồ Chí Minh,Silver,Formal,2
+CUST-51248,51,Female,Đà Nẵng,New,Elegant,2
+CUST-84403,60,Female,Cần Thơ,Silver,Formal,3
+CUST-37792,49,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-43259,50,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-59031,44,Female,Nha Trang,Silver,Sporty,3
+CUST-59753,60,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-22667,45,Female,Nha Trang,New,Formal,1
+CUST-13354,54,Female,Hà Nội,Silver,Classic,7
+CUST-31203,51,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-30644,43,Female,TP. Hồ Chí Minh,New,Sporty,2
+CUST-97447,47,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-92144,63,Female,Hà Nội,New,Formal,1
+CUST-65119,53,Female,TP. Hồ Chí Minh,Gold,Formal,18
+CUST-19661,43,Female,TP. Hồ Chí Minh,New,Elegant,5
+CUST-38758,54,Female,TP. Hồ Chí Minh,New,Elegant,1
+CUST-78932,50,Male,Nha Trang,Gold,Classic,12
+CUST-94189,75,Male,Hà Nội,Gold,Classic,9
+CUST-75198,54,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-75495,48,Female,Hà Nội,Gold,Classic,17
+CUST-69139,63,Female,Biên Hòa,New,Formal,0
+CUST-31871,40,Female,Nha Trang,Silver,Elegant,7
+CUST-35222,52,Female,Vũng Tàu,New,Casual,3
+CUST-20661,67,Male,Đà Lạt,New,Classic,2
+CUST-70291,51,Female,TP. Hồ Chí Minh,New,Elegant,4
+CUST-69731,40,Female,Hải Phòng,Silver,Elegant,4
+CUST-19738,48,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-38314,63,Female,Đà Lạt,New,Casual,4
+CUST-59692,55,Male,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-37103,45,Female,TP. Hồ Chí Minh,New,Formal,3
+CUST-22579,46,Female,Đà Lạt,Gold,Formal,13
+CUST-58688,47,Male,Huế,New,Elegant,1
+CUST-90382,54,Female,Biên Hòa,New,Formal,3
+CUST-10889,62,Female,Hà Nội,New,Sporty,2
+CUST-84116,60,Female,TP. Hồ Chí Minh,New,Elegant,4
+CUST-42621,55,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-11938,41,Female,TP. Hồ Chí Minh,Silver,Elegant,2
+CUST-35525,41,Female,TP. Hồ Chí Minh,Silver,Casual,5
+CUST-49371,56,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-86227,41,Male,Nha Trang,New,Formal,3
+CUST-56706,50,Female,TP. Hồ Chí Minh,Silver,Formal,5
+CUST-58889,54,Male,Hải Phòng,New,Sporty,4
+CUST-39743,42,Male,Huế,Silver,Sporty,7
+CUST-95560,43,Female,Đà Nẵng,Gold,Elegant,11
+CUST-33949,51,Female,TP. Hồ Chí Minh,New,Casual,1
+CUST-82448,56,Female,Hà Nội,Silver,Elegant,2
+CUST-52476,60,Female,Hà Nội,Gold,Elegant,12
+CUST-58645,56,Female,Cần Thơ,Silver,Elegant,4
+CUST-61290,52,Female,TP. Hồ Chí Minh,Gold,Formal,13
+CUST-24445,46,Female,Hà Nội,New,Casual,3
+CUST-94136,43,Female,Vũng Tàu,Silver,Elegant,4
+CUST-49579,47,Female,Hải Phòng,New,Sporty,0
+CUST-54024,55,Female,Huế,New,Formal,3
+CUST-70211,54,Female,TP. Hồ Chí Minh,Gold,Classic,17
+CUST-53662,40,Female,Biên Hòa,New,Classic,0
+CUST-34748,45,Male,Hà Nội,Gold,Casual,13
+CUST-17422,61,Male,Hà Nội,Silver,Casual,4
+CUST-15827,52,Female,Đà Lạt,Gold,Classic,10
+CUST-80228,40,Female,Đà Lạt,Gold,Classic,8
+CUST-51910,70,Female,TP. Hồ Chí Minh,Silver,Elegant,6
+CUST-53274,51,Female,Hà Nội,Gold,Classic,9
+CUST-47518,55,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-96007,55,Female,Cần Thơ,Silver,Elegant,4
+CUST-23593,49,Female,Huế,Silver,Elegant,6
+CUST-12046,46,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-36447,68,Female,Hà Nội,New,Classic,2
+CUST-63022,60,Male,Hải Phòng,New,Classic,1
+CUST-64955,58,Female,Cần Thơ,New,Elegant,2
+CUST-41125,56,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-50114,43,Male,Đà Nẵng,Silver,Elegant,10
+CUST-62140,62,Female,Vũng Tàu,Silver,Classic,6
+CUST-98809,45,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-93016,54,Female,Đà Nẵng,Gold,Casual,9
+CUST-36920,40,Male,Đà Nẵng,Gold,Classic,11
+CUST-25308,40,Female,Đà Nẵng,Gold,Classic,13
+CUST-81206,54,Female,Huế,Silver,Formal,4
+CUST-62735,45,Female,Đà Nẵng,New,Casual,4
+CUST-25721,40,Female,TP. Hồ Chí Minh,Gold,Classic,13
+CUST-19279,56,Female,Hà Nội,New,Classic,0
+CUST-70819,68,Female,Cần Thơ,New,Sporty,0
+CUST-22970,63,Female,Hà Nội,New,Sporty,0
+CUST-69285,49,Female,Hà Nội,Silver,Casual,8
+CUST-39603,52,Female,TP. Hồ Chí Minh,Silver,Casual,6
+CUST-26892,59,Female,Đà Nẵng,New,Formal,1
+CUST-54334,60,Female,Vũng Tàu,Silver,Sporty,4
+CUST-26106,49,Female,Cần Thơ,New,Elegant,5
+CUST-13734,52,Female,Huế,New,Sporty,0
+CUST-80623,54,Male,TP. Hồ Chí Minh,New,Casual,3
+CUST-47319,56,Male,TP. Hồ Chí Minh,New,Casual,1
+CUST-77986,50,Female,Vũng Tàu,Silver,Classic,5
+CUST-17579,51,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-66433,63,Female,Nha Trang,New,Formal,2
+CUST-68327,61,Female,Đà Nẵng,New,Casual,1
+CUST-18499,55,Female,TP. Hồ Chí Minh,Silver,Elegant,8
+CUST-62427,65,Male,Đà Nẵng,Gold,Casual,15
+CUST-22586,48,Female,Hà Nội,Silver,Elegant,3
+CUST-66307,64,Female,Hà Nội,Silver,Classic,10
+CUST-37706,56,Male,TP. Hồ Chí Minh,Gold,Casual,10
+CUST-48785,75,Female,Hà Nội,New,Casual,1
+CUST-69539,42,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-74581,46,Female,Đà Lạt,Silver,Elegant,7
+CUST-54232,55,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-78089,55,Male,Huế,New,Casual,2
+CUST-11752,67,Female,Đà Nẵng,New,Formal,1
+CUST-86896,46,Female,Hà Nội,New,Casual,0
+CUST-51581,59,Female,Hà Nội,New,Casual,0
+CUST-25868,61,Male,Biên Hòa,New,Classic,1
+CUST-59096,57,Female,Đà Nẵng,New,Elegant,3
+CUST-61997,44,Female,Biên Hòa,Gold,Formal,13
+CUST-82595,63,Female,TP. Hồ Chí Minh,Silver,Classic,13
+CUST-37466,61,Male,Cần Thơ,New,Elegant,3
+CUST-74783,56,Female,Nha Trang,New,Classic,3
+CUST-28167,53,Female,Vũng Tàu,New,Casual,2
+CUST-73205,53,Male,Hà Nội,New,Classic,2
+CUST-50918,51,Female,Biên Hòa,New,Elegant,1
+CUST-21453,57,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-91035,52,Female,Huế,Silver,Elegant,7
+CUST-50134,45,Female,Đà Nẵng,Silver,Classic,1
+CUST-18654,43,Female,Đà Nẵng,Silver,Formal,5
+CUST-17115,45,Female,TP. Hồ Chí Minh,Silver,Sporty,7
+CUST-34442,53,Female,Nha Trang,Silver,Classic,9
+CUST-76164,51,Female,TP. Hồ Chí Minh,Silver,Elegant,3
+CUST-50346,53,Female,TP. Hồ Chí Minh,Gold,Classic,5
+CUST-80842,56,Male,Đà Nẵng,Silver,Elegant,10
+CUST-74368,46,Female,Cần Thơ,Silver,Formal,4
+CUST-33447,63,Female,TP. Hồ Chí Minh,Silver,Casual,7
+CUST-79924,49,Female,Hải Phòng,Silver,Classic,7
+CUST-33662,48,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-97024,55,Female,Hải Phòng,New,Classic,1
+CUST-78622,40,Female,Hải Phòng,New,Classic,1
+CUST-33873,45,Female,Cần Thơ,New,Formal,2
+CUST-51073,59,Female,Nha Trang,New,Elegant,0
+CUST-72830,40,Female,Đà Nẵng,New,Classic,4
+CUST-54455,60,Male,Hà Nội,New,Formal,0
+CUST-91588,64,Female,Hải Phòng,Gold,Classic,7
+CUST-42890,49,Female,Hà Nội,New,Classic,1
+CUST-96378,54,Female,Hà Nội,New,Elegant,3
+CUST-40437,60,Female,Nha Trang,New,Classic,4
+CUST-20597,48,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-40765,58,Male,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-17871,46,Male,Vũng Tàu,Silver,Elegant,2
+CUST-96185,48,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-42492,45,Female,Hà Nội,Silver,Casual,5
+CUST-64530,54,Female,Hà Nội,New,Formal,1
+CUST-66604,61,Female,TP. Hồ Chí Minh,Silver,Casual,2
+CUST-71402,50,Female,Cần Thơ,Gold,Casual,10
+CUST-37078,41,Female,Nha Trang,Gold,Formal,13
+CUST-31443,43,Female,Đà Nẵng,New,Elegant,3
+CUST-44220,55,Male,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-24928,66,Female,Đà Nẵng,Silver,Elegant,7
+CUST-50071,55,Female,Hà Nội,Gold,Classic,15
+CUST-54514,48,Female,Hải Phòng,New,Sporty,1
+CUST-72540,58,Female,Đà Nẵng,New,Classic,1
+CUST-54668,50,Male,Hà Nội,New,Formal,0
+CUST-23680,48,Female,Nha Trang,New,Elegant,2
+CUST-94254,44,Female,Cần Thơ,Silver,Classic,7
+CUST-55003,63,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-90894,40,Female,Hải Phòng,New,Elegant,3
+CUST-24485,58,Female,Đà Nẵng,Silver,Classic,2
+CUST-74408,48,Female,Hà Nội,New,Casual,0
+CUST-51487,48,Female,Hà Nội,Gold,Classic,11
+CUST-72587,65,Female,Hải Phòng,Silver,Formal,6
+CUST-74886,46,Female,Biên Hòa,Gold,Formal,14
+CUST-79306,46,Female,Đà Nẵng,Silver,Classic,4
+CUST-18088,50,Female,Đà Nẵng,New,Sporty,1
+CUST-19534,55,Male,Hải Phòng,New,Elegant,1
+CUST-12040,48,Male,TP. Hồ Chí Minh,Gold,Elegant,16
+CUST-40029,40,Female,Hà Nội,New,Classic,3
+CUST-24999,45,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-38855,62,Male,Đà Lạt,Silver,Classic,7
+CUST-83126,52,Female,Nha Trang,New,Classic,1
+CUST-47547,55,Female,Biên Hòa,New,Formal,1
+CUST-46508,49,Female,Hà Nội,New,Elegant,1
+CUST-46760,46,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-69680,65,Female,Đà Nẵng,Silver,Classic,3
+CUST-99489,50,Female,Hà Nội,New,Classic,1
+CUST-80425,48,Female,Hà Nội,New,Elegant,0
+CUST-55371,60,Male,Nha Trang,New,Classic,2
+CUST-60044,46,Female,Hải Phòng,Silver,Classic,5
+CUST-21345,47,Female,Hải Phòng,New,Casual,1
+CUST-69469,52,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-49021,52,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-36378,54,Female,Hà Nội,New,Casual,2
+CUST-92448,68,Female,Hà Nội,Silver,Casual,4
+CUST-35281,54,Female,TP. Hồ Chí Minh,New,Sporty,0
+CUST-86881,40,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-15238,54,Female,Biên Hòa,New,Casual,1
+CUST-83828,52,Female,TP. Hồ Chí Minh,Gold,Classic,14
+CUST-31019,52,Male,Hà Nội,New,Casual,1
+CUST-13117,53,Female,Hà Nội,New,Classic,5
+CUST-86681,51,Female,Cần Thơ,Silver,Elegant,6
+CUST-99195,51,Female,Hà Nội,New,Sporty,3
+CUST-46708,56,Female,Hà Nội,Silver,Casual,5
+CUST-34849,47,Female,TP. Hồ Chí Minh,Gold,Casual,14
+CUST-29282,44,Female,TP. Hồ Chí Minh,Silver,Classic,4
+CUST-98307,75,Female,Đà Nẵng,New,Casual,4
+CUST-49243,46,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-41226,52,Male,Hà Nội,Gold,Classic,16
+CUST-12769,40,Female,Nha Trang,New,Elegant,3
+CUST-64172,52,Female,TP. Hồ Chí Minh,New,Elegant,4
+CUST-37314,44,Male,Đà Nẵng,Gold,Elegant,8
+CUST-81434,48,Female,Hà Nội,Gold,Casual,15
+CUST-60253,60,Female,Hải Phòng,New,Elegant,1
+CUST-18138,55,Female,TP. Hồ Chí Minh,New,Formal,4
+CUST-59749,56,Female,TP. Hồ Chí Minh,Silver,Formal,6
+CUST-60809,40,Female,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-67042,66,Female,Vũng Tàu,New,Casual,2
+CUST-61639,42,Female,TP. Hồ Chí Minh,New,Classic,2
+CUST-78751,64,Female,Đà Lạt,New,Formal,1
+CUST-17117,60,Female,Đà Lạt,New,Classic,0
+CUST-60800,56,Male,TP. Hồ Chí Minh,New,Classic,2
+CUST-86850,45,Male,TP. Hồ Chí Minh,Silver,Elegant,7
+CUST-52340,53,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-68818,48,Female,Vũng Tàu,New,Elegant,1
+CUST-70074,52,Female,Đà Nẵng,Silver,Formal,4
+CUST-49512,50,Female,Đà Nẵng,New,Elegant,1
+CUST-20293,40,Female,Hà Nội,New,Casual,2
+CUST-32064,60,Female,Huế,Gold,Classic,13
+CUST-22565,51,Female,Hà Nội,New,Elegant,2
+CUST-13349,48,Female,Hà Nội,Gold,Elegant,13
+CUST-61120,47,Female,TP. Hồ Chí Minh,New,Elegant,0
+CUST-55446,54,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-51250,44,Female,Đà Lạt,Silver,Casual,5
+CUST-59945,40,Female,Nha Trang,New,Elegant,3
+CUST-80178,55,Female,Hà Nội,Silver,Classic,8
+CUST-34910,56,Male,TP. Hồ Chí Minh,New,Elegant,0
+CUST-73387,50,Female,Nha Trang,Silver,Casual,4
+CUST-52389,42,Female,Đà Nẵng,New,Casual,2
+CUST-69764,52,Female,Hà Nội,Silver,Formal,2
+CUST-80149,40,Female,TP. Hồ Chí Minh,Silver,Formal,4
+CUST-80739,43,Female,Hải Phòng,New,Classic,2
+CUST-81632,45,Female,Vũng Tàu,New,Elegant,0
+CUST-10661,58,Female,Hải Phòng,New,Formal,0
+CUST-82358,49,Female,Hà Nội,Silver,Elegant,7
+CUST-27971,48,Male,Cần Thơ,New,Elegant,1
+CUST-84862,67,Male,TP. Hồ Chí Minh,Silver,Classic,6
+CUST-22563,54,Female,Huế,New,Casual,0
+CUST-67245,54,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-71357,49,Female,Hà Nội,Silver,Sporty,9
+CUST-31536,47,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-35921,40,Female,TP. Hồ Chí Minh,New,Elegant,2
+CUST-90742,59,Female,TP. Hồ Chí Minh,Silver,Classic,3
+CUST-44836,55,Female,Đà Nẵng,Silver,Casual,5
+CUST-85673,50,Female,Cần Thơ,New,Elegant,2
+CUST-82354,50,Female,Huế,New,Sporty,1
+CUST-49129,57,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-84828,40,Female,Hà Nội,Silver,Casual,3
+CUST-79037,47,Female,TP. Hồ Chí Minh,New,Formal,1
+CUST-38085,42,Female,TP. Hồ Chí Minh,Silver,Classic,5
+CUST-18741,66,Female,Hà Nội,Silver,Casual,2
+CUST-72963,59,Male,Đà Lạt,Gold,Classic,12
+CUST-66625,40,Female,Vũng Tàu,New,Formal,1
+CUST-84871,40,Male,Hà Nội,New,Formal,1
+CUST-24448,50,Female,Nha Trang,New,Classic,1
+CUST-49307,48,Female,Hải Phòng,New,Elegant,1
+CUST-94551,41,Female,TP. Hồ Chí Minh,New,Sporty,1
+CUST-70229,67,Female,Hải Phòng,Gold,Sporty,15
+CUST-60760,54,Female,Hà Nội,New,Casual,2
+CUST-30404,55,Female,Hà Nội,New,Sporty,1
+CUST-39692,46,Female,Vũng Tàu,Silver,Classic,6
+CUST-52777,57,Female,Hải Phòng,Gold,Classic,11
+CUST-71731,48,Male,TP. Hồ Chí Minh,New,Classic,3
+CUST-21683,49,Male,TP. Hồ Chí Minh,Silver,Elegant,5
+CUST-51630,56,Female,Biên Hòa,Silver,Classic,6
+CUST-27038,40,Female,TP. Hồ Chí Minh,New,Casual,2
+CUST-81554,64,Male,Đà Lạt,Silver,Elegant,6
+CUST-52227,53,Female,Huế,New,Elegant,1
+CUST-16865,62,Female,TP. Hồ Chí Minh,New,Casual,0
+CUST-43316,43,Female,Hải Phòng,New,Casual,0
+CUST-91437,44,Female,Hải Phòng,New,Sporty,1
+CUST-39302,42,Female,Nha Trang,Silver,Elegant,3
+CUST-46949,54,Female,TP. Hồ Chí Minh,Silver,Formal,2
+CUST-97013,52,Female,Hà Nội,New,Elegant,1
+CUST-42974,48,Female,Hà Nội,Silver,Elegant,5
+CUST-76982,43,Female,Đà Nẵng,New,Casual,2
+CUST-92971,41,Female,Nha Trang,New,Classic,1
+CUST-71433,51,Female,Cần Thơ,Silver,Casual,5
+CUST-76859,48,Male,Đà Nẵng,New,Elegant,3
+CUST-23877,46,Female,Hà Nội,Silver,Elegant,11
+CUST-59160,64,Female,Hà Nội,New,Classic,2
+CUST-13939,51,Female,Nha Trang,Silver,Elegant,7
+CUST-54773,62,Female,Đà Nẵng,New,Elegant,4
+CUST-51979,47,Female,Nha Trang,New,Elegant,2
+CUST-42732,53,Female,Hà Nội,Silver,Classic,6
+CUST-27507,51,Female,TP. Hồ Chí Minh,Silver,Casual,1
+CUST-78352,40,Female,Đà Lạt,New,Elegant,2
+CUST-80015,63,Female,Hà Nội,Gold,Casual,17
+CUST-70979,50,Male,Hà Nội,New,Casual,2
+CUST-90338,57,Female,Hải Phòng,New,Classic,2
+CUST-50090,45,Female,Đà Nẵng,New,Classic,3
+CUST-97318,50,Female,Biên Hòa,Silver,Casual,7
+CUST-16109,45,Female,Đà Lạt,Silver,Formal,9
+CUST-41891,61,Female,Cần Thơ,Silver,Elegant,6
+CUST-73016,54,Female,Hà Nội,Silver,Formal,1
+CUST-78196,54,Female,TP. Hồ Chí Minh,New,Elegant,3
+CUST-24863,62,Female,Đà Lạt,New,Classic,1
+CUST-66824,61,Female,TP. Hồ Chí Minh,New,Classic,3
+CUST-34897,58,Female,Biên Hòa,Silver,Elegant,8
+CUST-84455,40,Female,Hải Phòng,New,Elegant,3
+CUST-87214,46,Female,Hà Nội,Silver,Elegant,5
+CUST-15741,43,Female,TP. Hồ Chí Minh,Silver,Elegant,4
+CUST-89879,57,Female,Hải Phòng,Silver,Classic,7
+CUST-59893,53,Female,Hà Nội,New,Elegant,1
+CUST-18289,40,Female,TP. Hồ Chí Minh,New,Formal,0
+CUST-30444,50,Female,Cần Thơ,Gold,Formal,10
+CUST-50527,40,Female,Hà Nội,Silver,Elegant,0
+CUST-49893,51,Male,TP. Hồ Chí Minh,New,Elegant,1
+CUST-59072,40,Female,Hải Phòng,Silver,Classic,6
+CUST-84025,56,Female,Nha Trang,Gold,Formal,17
+CUST-46206,55,Female,TP. Hồ Chí Minh,New,Classic,1
+CUST-67931,67,Female,Biên Hòa,Gold,Elegant,17
+CUST-80321,58,Male,Biên Hòa,New,Sporty,0
+CUST-93386,48,Female,TP. Hồ Chí Minh,Gold,Classic,13
+CUST-26425,58,Female,Hà Nội,New,Classic,2
+CUST-43363,40,Male,Nha Trang,New,Formal,1
+CUST-55021,44,Female,TP. Hồ Chí Minh,New,Formal,2
+CUST-50525,54,Female,Huế,Silver,Classic,7
+CUST-85561,40,Female,Đà Nẵng,Gold,Classic,16
+CUST-21527,51,Female,TP. Hồ Chí Minh,New,Classic,3
+CUST-56181,43,Female,Đà Nẵng,New,Elegant,2
+CUST-80733,52,Female,Đà Nẵng,New,Classic,0
+CUST-74562,43,Male,Biên Hòa,New,Elegant,1
+CUST-78491,55,Female,Hà Nội,Silver,Casual,7
+CUST-76208,52,Female,Biên Hòa,New,Casual,1
+CUST-97794,63,Female,Hà Nội,Gold,Sporty,20
+CUST-57377,52,Female,Cần Thơ,Gold,Formal,19
+CUST-18475,45,Male,Đà Lạt,New,Elegant,1
+CUST-28130,50,Female,TP. Hồ Chí Minh,Silver,Elegant,8
+CUST-72757,41,Female,Hà Nội,Gold,Classic,22
+CUST-17734,55,Male,Nha Trang,Gold,Elegant,18
+CUST-87268,56,Male,Huế,Silver,Elegant,5
+CUST-48969,71,Male,TP. Hồ Chí Minh,New,Casual,1
+CUST-49497,47,Female,TP. Hồ Chí Minh,New,Classic,0
+CUST-68909,49,Female,Nha Trang,Silver,Elegant,5
+CUST-79654,47,Female,Hà Nội,New,Classic,3
+CUST-18032,53,Female,Hải Phòng,Silver,Sporty,3
